@@ -1,5 +1,7 @@
 ---
 title: Flipping Wax Seal Signet
+tags:
+  - jewelry
 ---
 
 #signet #ring #jewelry

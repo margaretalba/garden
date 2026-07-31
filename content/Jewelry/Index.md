@@ -1,5 +1,5 @@
 ---
-title: Entry
+title: Jewelry
 draft: false
 tags:
   -

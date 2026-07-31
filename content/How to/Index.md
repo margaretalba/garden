@@ -1,5 +1,5 @@
 ---
-title: Entry
+title: How To
 draft: false
 tags:
   -

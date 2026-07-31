@@ -5,5 +5,3 @@ tags:
   - ring
   - jewelry
 ---
-
-Your note content starts here...

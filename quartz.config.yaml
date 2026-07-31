@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: margaretalba.github.io/garden
+  baseUrl: garden.margaretalba.com
   ignorePatterns:
     - private
     - templates

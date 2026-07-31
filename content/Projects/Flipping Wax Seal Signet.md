@@ -2,9 +2,9 @@
 title: Flipping Wax Seal Signet
 draft: false
 tags:
-  - Signet
-  - Ring
-  - Jewelry
+  - signet
+  - ring
+  - jewelry
 ---
 
 [[Signet Inspiration.canvas]]

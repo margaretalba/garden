@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Margaret's Digital Garden
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,10 +21,10 @@ configuration:
       code: Fira Code         # Clear monospace font for code blocks
     colors:
       lightMode:
-        light: "#ffffff"         # Crisp white background matching margaretalba.com
-        lightgray: "#f4f4f2"     # Very light gray for soft subtle borders
+        light: "#faf8f6"         # Warm cream background matching margaretalba.com
+        lightgray: "#e8e5df"     # Soft subtle borders
         gray: "#8c8a84"          # Muted warm gray for metadata, tags, and dates
-        darkgray: "#222222"      # Dark charcoal body text for elegant contrast
+        darkgray: "#2b2927"      # Dark charcoal body text for elegant contrast
         dark: "#111111"          # Near-black for deep, bold headers
         secondary: "#c5a059"     # Matte metallic gold for hyperlinks and primary accents
         tertiary: "#dfc48c"      # Lighter champagne gold for hover states
@@ -267,7 +267,7 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto

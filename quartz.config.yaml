@@ -16,29 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Playfair Display # Elegant serif font mirroring your jewelry brand aesthetic
+      body: Montserrat        # Sleek geometric sans-serif for clean, high-end body text
+      code: Fira Code         # Clear monospace font for code blocks
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#ffffff"         # Crisp white background matching margaretalba.com
+        lightgray: "#f4f4f2"     # Very light gray for soft subtle borders
+        gray: "#8c8a84"          # Muted warm gray for metadata, tags, and dates
+        darkgray: "#222222"      # Dark charcoal body text for elegant contrast
+        dark: "#111111"          # Near-black for deep, bold headers
+        secondary: "#c5a059"     # Matte metallic gold for hyperlinks and primary accents
+        tertiary: "#dfc48c"      # Lighter champagne gold for hover states
+        highlight: "rgba(197, 160, 89, 0.06)" # Soft transparent gold for background highlights
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#121212"         # Rich deep charcoal background
+        lightgray: "#222222"     # Dark borders
+        gray: "#7a7872"          # Soft gold-tinted gray metadata
+        darkgray: "#e5e5e3"      # Off-white readable body text
+        dark: "#ffffff"          # True white for clean bold headings
+        secondary: "#dfc48c"     # Radiant champagne gold for links
+        tertiary: "#f0ddb7"      # Brilliant bright gold for interactive hover actions
+        highlight: "rgba(223, 196, 140, 0.08)" # Subtle golden glow highlights
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -135,7 +135,7 @@ plugins:
     layout:
       position: afterBody
       priority: 50
-      display: all
+    display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -217,7 +217,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 5
-      condition: not-index
+    condition: not-index
   - source: "@quartz-community/comments"
     enabled: false
     options:

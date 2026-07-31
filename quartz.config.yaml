@@ -41,6 +41,12 @@ configuration:
         highlight: "rgba(223, 196, 140, 0.08)" # Subtle golden glow highlights
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "@quartz-community/frontmatter"
+    enabled: true
+    order: 1
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    ...
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:

@@ -2,16 +2,16 @@
 title: Welcome to My Digital Garden
 ---
 
-Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative process across design, craft, and business.
+Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes
 
 ---
 
 ### 📂 Explore Folders
 
-- [[Craft/]] — Notes on materials, jewelry techniques, and fabrication.
+- [[How To/]] — Notes on materials, jewelry techniques, and fabrication.
 - [[Design/]] — Thoughts on typography, color systems, and brand identity.
 - [[Projects/]] — What I am currently building and experimenting with.
-- [[Writing/]] — Essays, reflections, and longer-form thoughts.
+- [[References/]] — Essays, reflections, and longer-form thoughts.
 
 ---
 

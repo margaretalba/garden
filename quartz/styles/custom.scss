@@ -1,15 +1,23 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+
+// Clean, subtle tag pills (Carolyn style)
 a.internal.tag-link {
-  background-color: transparent !important;
-  border: none !important;
-  padding: 0 !important;
-  color: var(--secondary) !important;
-  font-weight: 500;
+  background-color: var(--lightgray) !important;
+  color: var(--darkgray) !important;
+  padding: 0.2rem 0.5rem !important;
+  border-radius: 4px !important;
+  font-size: 0.85rem !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  margin-right: 0.25rem !important;
 }
 
 a.internal.tag-link:hover {
-  color: var(--tertiary) !important;
-  text-decoration: underline;
+  background-color: var(--highlight) !important;
+  color: var(--secondary) !important;
+  text-decoration: none !important;
 }

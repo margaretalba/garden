@@ -1,6 +1,6 @@
 ---
-title: How To
+title: Entry
 draft: false
 tags:
-  -
+  - 
 ---

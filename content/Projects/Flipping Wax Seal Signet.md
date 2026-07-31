@@ -7,6 +7,4 @@ tags:
   - jewelry
 ---
 
-[[Signet Inspiration.canvas]]
-
-
+Signet Inspiration.canvas

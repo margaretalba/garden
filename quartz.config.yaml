@@ -8,10 +8,15 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: garden.margaretalba.com
+  # 1. ADD THIS LINE: Tells Quartz to look for and parse .canvas JSON files
+  additionalExtensions:
+    - canvas
   ignorePatterns:
     - private
     - templates
-    - .obsidian
+    # 2. NOTE: If your canvases live inside folders that use .obsidian paths, 
+    # keep an eye on this. Otherwise, this line is fine.
+    - .obsidian 
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

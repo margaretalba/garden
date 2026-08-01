@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"cabd332623b147bf","type":"text","text":"![[References/victorian-signet.png]]","x":-860,"y":-290,"width":250,"height":260},
-		{"id":"886e196e89bd84a8","type":"text","text":"![[victorian-signet.png]]","x":-1220,"y":-290,"width":250,"height":260}
+		{"id":"886e196e89bd84a8","type":"text","text":"![[victorian-signet.png]]","x":-1220,"y":-290,"width":250,"height":260},
+		{"id":"f2c21d832ae2e335","type":"text","text":"\n![](References/victorian-signet.png)\n","x":-1040,"y":20,"width":250,"height":230},
+		{"id":"72e9afa2fd8ff2b1","x":-1140,"y":280,"width":250,"height":171,"type":"text","text":"\n<img src=\"https://garden.margaretalba.com/References/victorian-signet.png\" />\n"}
 	],
 	"edges":[]
 }

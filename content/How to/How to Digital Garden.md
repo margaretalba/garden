@@ -9,11 +9,11 @@ draft: false
 From Carolyn Yoo's [Intro to Digital Gardening](https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly)
 
 ### 5 reasons to start a digital garden
-##### 1. It helps you reclaim your attention from social media
-##### 2. It helps you remember what you consume
-##### 3. It helps you form your opinions in public
-##### 4. It helps you think non-linearly and non-chronologically
-##### 5. It helps you recycle and combine ideas
+1. It helps you reclaim your attention from social media
+2. It helps you remember what you consume
+3. It helps you form your opinions in public
+4. It helps you think non-linearly and non-chronologically
+5. It helps you recycle and combine ideas
 
 ### How to create your own
 

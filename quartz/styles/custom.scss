@@ -40,3 +40,21 @@ span.tags-label {
 footer {
   display: none !important;
 }
+
+/* Remove bullet dots next to tag lists */
+ul.tags, 
+.tags-container,
+.section-li .tags {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.4rem !important;
+}
+
+ul.tags li, 
+.tags-container li,
+.section-li .tags li {
+  list-style-type: none !important;
+}

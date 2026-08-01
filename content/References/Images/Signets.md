@@ -2,4 +2,4 @@
 title: Signets
 draft: false
 ---
-![[Screenshot 2026-07-25 at 9.02.10 AM.png]]![[victorian-signet.jpg]]
+#jewelry #signets![[Screenshot 2026-07-25 at 9.02.10 AM.png|157]]![[victorian-signet.jpg|158]]

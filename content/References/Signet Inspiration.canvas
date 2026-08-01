@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"eb14ef5aeaa4833f","x":-908,"y":-2031,"width":400,"height":400,"type":"file","file":"content/How to/How to Digital Garden.md"},
-		{"id":"09598b58282b053a","x":-1117,"y":-1735,"width":400,"height":400,"type":"file","file":"content/References/Image-Index.md"},
-		{"id":"46a8b005ffa16669","x":-1326,"y":-998,"width":400,"height":400,"type":"file","file":"content/index.md"},
-		{"id":"a148f69fff199079","x":-1587,"y":-2060,"width":400,"height":400,"type":"file","file":"content/Projects/Flipping Wax Seal Signet.md"}
+		{"id":"eb14ef5aeaa4833f","x":-908,"y":-2031,"width":400,"height":400,"type":"file","file":"How to/How to Digital Garden.md"},
+		{"id":"09598b58282b053a","x":-1117,"y":-1735,"width":400,"height":400,"type":"file","file":"References/Image-Index.md"},
+		{"id":"46a8b005ffa16669","x":-1326,"y":-998,"width":400,"height":400,"type":"file","file":"index.md"},
+		{"id":"a148f69fff199079","x":-1587,"y":-2060,"width":400,"height":400,"type":"file","file":"Projects/Flipping Wax Seal Signet.md"}
 	],
 	"edges":[]
 }

@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"44f8dee518bdc28e","type":"file","file":"content/References/Victorian 14kt Carved Signet Bloodstone + Banded Agate Flip Ring – A. Brandt + Son.png","x":-360,"y":-320,"width":400,"height":400},
-		{"id":"9740dd6cd1df3a3d","type":"file","file":"content/References/Screenshot 2026-07-25 at 9.02.10 AM.png","x":260,"y":-760,"width":400,"height":383}
+		{"id":"b5dee01587badea0","x":-267,"y":-378,"width":400,"height":400,"type":"file","file":"content/References/Victorian 14kt Carved Signet Bloodstone + Banded Agate Flip Ring – A. Brandt + Son.png"},
+		{"id":"954629751712a241","x":138,"y":-676,"width":400,"height":383,"type":"file","file":"content/References/Screenshot 2026-07-25 at 9.02.10 AM.png"}
 	],
 	"edges":[
-		{"id":"998eaee8bf2360a4","fromNode":"44f8dee518bdc28e","fromSide":"top","toNode":"9740dd6cd1df3a3d","toSide":"left"}
+		{"id":"b5597eb8b3f4d38b","fromNode":"954629751712a241","fromSide":"left","toNode":"b5dee01587badea0","toSide":"top"}
 	]
 }

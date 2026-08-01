@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"557a0dc9b42fa249","x":-307,"y":-211,"width":400,"height":400,"type":"file","file":"References/Substack/Intro to Digital Gardening.md"},
+		{"id":"b38511dbf6abc428","x":-187,"y":-207,"width":400,"height":383,"type":"file","file":"References/Images/Screenshot 2026-07-25 at 9.02.10 AM.png"},
+		{"id":"83ece73001f9164e","x":-207,"y":-300,"width":400,"height":400,"type":"file","file":"References/Images/Signets.md"},
+		{"id":"1fcf22dd55d2f87b","x":-194,"y":227,"width":400,"height":400,"type":"file","file":"References/Images/victorian-signet.jpg"}
+	],
+	"edges":[]
+}

@@ -12,4 +12,4 @@ It wasn't until I saw a signet with a rotating bead that I got excited to actual
 
 I started making designs on Blender. It honestly feels so much simpler than the [card case](https://substack.com/@margaretalba/note/p-193506762?r=20edth&utm_source=notes-share-action&utm_medium=web) I made earlier this year. I went through a few prototypes before sending it be printed and cast.
 
-My only gripe is that this would have been the perfect project to make in wax. However, alas, my studio is still under construction and all my tools are tucked away in a cramped space. Maybe I'll make another one later in the year if this goes well! 
+My only gripe is that this would have been the perfect project to make in wax. However, alas, my studio is still under construction and all my tools are tucked away in a cramped space. Maybe I'll make another one later in the year if this goes well! ![[content/References/victorian-signet.png]]

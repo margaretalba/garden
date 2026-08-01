@@ -8,6 +8,8 @@ I've been dreaming about a wax seal signet ever since I started writing letters 
 
 It wasn't until I saw a signet with a rotating bead that I got excited to actually make one. A flipping component in a signet? That would be so so fun.
 
+>**Helpful Links:**
+>[[Signet Inspiration.canvas]]
 #### 072526
 
 I started making designs on Blender. It honestly feels so much simpler than the [card case](https://substack.com/@margaretalba/note/p-193506762?r=20edth&utm_source=notes-share-action&utm_medium=web) I made earlier this year. I went through a few prototypes before sending it be printed and cast.

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b38511dbf6abc428","type":"file","file":"References/Images/Screenshot 2026-07-25 at 9.02.10 AM.png","x":-140,"y":-580,"width":400,"height":383},
+		{"id":"1fcf22dd55d2f87b","type":"file","file":"References/Images/victorian-signet.jpg","x":-420,"y":-80,"width":400,"height":400},
+		{"id":"dbcd35a26efd6c00","x":-640,"y":-720,"width":360,"height":480,"type":"file","file":"Pasted image 20260731232244.png"},
+		{"id":"4afcb49827a9a725","x":-840,"y":-80,"width":400,"height":219,"type":"file","file":"Pasted image 20260731232229.png"},
+		{"id":"10f248760258f72e","x":-724,"y":139,"width":284,"height":400,"type":"file","file":"Pasted image 20260731232213.png"}
+	],
+	"edges":[
+		{"id":"dd85c9e99e54b8c9","fromNode":"1fcf22dd55d2f87b","fromSide":"top","toNode":"b38511dbf6abc428","toSide":"bottom"},
+		{"id":"74f34fa039a85903","fromNode":"dbcd35a26efd6c00","fromSide":"right","toNode":"b38511dbf6abc428","toSide":"left"}
+	]
+}

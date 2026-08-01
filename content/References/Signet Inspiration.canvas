@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"61ab57ffef1ef8c2","type":"text","text":"","x":-1045,"y":-429,"width":250,"height":60},
 		{"id":"cabd332623b147bf","type":"text","text":"![[References/victorian-signet.png]]","x":-860,"y":-290,"width":250,"height":260},
-		{"id":"886e196e89bd84a8","x":-1220,"y":-290,"width":250,"height":260,"type":"text","text":"![[victorian-signet.png]]"}
+		{"id":"886e196e89bd84a8","type":"text","text":"![[victorian-signet.png]]","x":-1220,"y":-290,"width":250,"height":260}
 	],
 	"edges":[]
 }

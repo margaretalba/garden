@@ -1,11 +1,14 @@
 {
 	"nodes":[
+		{"id":"de53b6498976fbe4","x":-1579,"y":577,"width":250,"height":60,"type":"text","text":""},
 		{"id":"380ead71cfd39392","type":"file","file":"content/References/Substack/Intro to Digital Gardening.md","x":-1002,"y":100,"width":400,"height":400},
 		{"id":"ccebe2b0190f498b","type":"text","text":"","x":-1177,"y":546,"width":250,"height":60},
 		{"id":"9f69cbd08ab1fbb0","type":"file","file":"content/References/Image-Index.md","x":-1220,"y":800,"width":400,"height":400},
 		{"id":"7079096325fcd05b","type":"text","text":"","x":-986,"y":-203,"width":250,"height":60},
 		{"id":"6a2def1e6be77b42","type":"file","file":"content/References/Image-Index.md","x":-910,"y":-694,"width":400,"height":400},
-		{"id":"e428d16466fd5dd2","x":-1620,"y":-440,"width":400,"height":400,"type":"file","file":"content/References/Substack/When sharing becomes the creative work.md"}
+		{"id":"e428d16466fd5dd2","type":"file","file":"content/References/Substack/When sharing becomes the creative work.md","x":-1620,"y":-440,"width":400,"height":400},
+		{"id":"bb3b11749e90feb7","x":-1484,"y":856,"width":250,"height":60,"type":"text","text":"```\n[Intro to Digital Gardening](/references/intro-to-digital-gardening)\n```"},
+		{"id":"81cdbf104a012b06","x":-1520,"y":718,"width":250,"height":60,"type":"text","text":"[Intro to Digital Gardening](/references/intro-to-digital-gardening)"}
 	],
 	"edges":[]
 }

@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"cabd332623b147bf","x":-679,"y":-160,"width":250,"height":260,"type":"text","text":"![[References/victorian-signet.png]]\n```"}
+		{"id":"bd95cae273a11e3f","type":"file","file":"content/Image Index.md/victorian-signet.png.md","x":-554,"y":-30,"width":400,"height":400},
+		{"id":"cabd332623b147bf","type":"text","text":"![[References/victorian-signet.png]]\n```","x":-860,"y":-290,"width":250,"height":260}
 	],
 	"edges":[]
 }

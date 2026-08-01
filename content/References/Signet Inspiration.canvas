@@ -1,10 +1,7 @@
 {
 	"nodes":[
-		{"id":"954629751712a241","type":"file","file":"content/References/072526-prototype.png","x":138,"y":-676,"width":400,"height":383},
-		{"id":"2823ace1f1919139","type":"file","file":"content/References/victorian-signet.png","x":-360,"y":-484,"width":400,"height":400},
-		{"id":"82c57b571d5d46a5","type":"text","text":"![](References/victorian-signet.png)","x":-360,"y":-775,"width":250,"height":235}
+		{"id":"ae9e3a1c6caf5c88","x":-332,"y":-671,"width":250,"height":251,"type":"text","text":"<img src=\"/References/victorian-signet.png\" style=\"width:100%; height:auto;\" />\n"},
+		{"id":"2c55a5d13f94e579","x":112,"y":-578,"width":250,"height":238,"type":"text","text":"![](References/victorian-signet.png)\n"}
 	],
-	"edges":[
-		{"id":"20ad4c729904966f","fromNode":"954629751712a241","fromSide":"left","toNode":"2823ace1f1919139","toSide":"top"}
-	]
+	"edges":[]
 }

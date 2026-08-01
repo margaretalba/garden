@@ -21,3 +21,10 @@ a.internal.tag-link:hover {
   color: var(--secondary) !important;
   text-decoration: none !important;
 }
+
+/* Hides the default Obsidian Properties panel in Quartz */
+.properties,
+details.properties,
+.frontmatter-container {
+  display: none !important;
+}

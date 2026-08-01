@@ -1,3 +1,0 @@
-
-![[victorian-signet.png]]
-

@@ -28,3 +28,10 @@ details.properties,
 .frontmatter-container {
   display: none !important;
 }
+
+/* 2. Hide the "tags" label text if tags render inside frontmatter lists */
+.meta .tags-label,
+.frontmatter .tags-label,
+span.tags-label {
+  display: none !important;
+}

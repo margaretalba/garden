@@ -3,4 +3,4 @@
 This note ensures Quartz packs canvas images during compilation.
 
 ![[References/victorian-signet.png]]
-![[public/references/072526-prototype.png]]
+![[References/072526-prototype.png]]

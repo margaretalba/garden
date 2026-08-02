@@ -2,7 +2,7 @@
 title: Keep Going
 draft: false
 ---
- #creativity
+ #creativity #book
 
 # Kleon, A. (2019). _Keep Going: 10 ways to stay creative in good times and bad_. Workman Publishing.
 

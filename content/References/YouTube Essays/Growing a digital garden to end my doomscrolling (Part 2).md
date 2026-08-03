@@ -4,7 +4,7 @@ draft: false
 ---
 #digital-garden #youtube-essay 
 
-# Howard, A. (2025, May 27). _Growing a digital garden to end my doomscrolling (part 2)_ [Video]. YouTube. [http://www.youtube.com/watch?v=tgrfVgHwTLY](https://www.google.com/search?q=http://www.youtube.com/watch%3Fv%3DtgrfVgHwTLY)
+##### Howard, A. (2025, May 27). _Growing a digital garden to end my doomscrolling (part 2)_ [Video]. YouTube. [http://www.youtube.com/watch?v=tgrfVgHwTLY](https://www.google.com/search?q=http://www.youtube.com/watch%3Fv%3DtgrfVgHwTLY)
 
 Digital Gardens are NOT blogs
 

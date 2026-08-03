@@ -6,7 +6,7 @@ draft: false
 ---
 #digital-garden 
 
-From Carolyn Yoo's [Intro to Digital Gardening](https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly)
+Yoo, C. (2020, December 14). _Intro to digital gardening: A quietly radical way of thinking and writing online_. Substack. [https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly](https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly)
 
 ### 5 reasons to start a digital garden
 1. It helps you reclaim your attention from social media

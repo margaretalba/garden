@@ -4,7 +4,7 @@ draft: false
 ---
 #digital-garden #substack
 
-# [Intro to Digital Gardening:  A Quietly Radical Way of Thinking and Writing Online_ by Claire Yoo](https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly)by Carolyn Woo
+# Yoo, C. (2020, December 14). _Intro to digital gardening: A quietly radical way of thinking and writing online_. Substack. [https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly](https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly)
 
 
 

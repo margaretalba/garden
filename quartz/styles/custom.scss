@@ -1,29 +1,43 @@
 @use "./variables.scss" as *;
 
 // ==========================================
-// 1. TYPOGRAPHY & BRAND VARIABLES OVERRIDE
+// 1. MARGARETALBA.COM DESIGN SYSTEM OVERRIDE
 // ==========================================
+
 :root {
-  --font-body: -apple-system, BlinkMacSystemFont, "Inter", Roboto, Helvetica, Arial, sans-serif;
-  --font-header: var(--font-body);
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-header: "ivypresto-display", serif;
 }
 
 body {
   font-family: var(--font-body);
-  color: var(--darkgray);
-  font-size: 0.65rem !important;
+  font-size: 0.77rem; // Matches --normal-text-size
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  line-height: 1.91em;
 }
 
+// Headings mapped precisely to your IvyPresto display styles
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-header);
-  letter-spacing: -0.01em;
+  font-style: normal;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
+  line-height: 1.2em;
 }
+
+h1 { font-size: 6.5rem; }
+h2 { font-size: 2.8rem; }
+h3 { font-size: 2.2rem; }
+h4 { font-size: 1.6rem; }
 
 // ==========================================
 // 2. YOUR CUSTOM TAG PILLS & UI TWEAKS
 // ==========================================
 
-// Clean, subtle tag pills (Carolyn style)
+// Clean, subtle tag pills
 a.internal.tag-link {
   background-color: var(--lightgray) !important;
   color: var(--darkgray) !important;
@@ -34,6 +48,7 @@ a.internal.tag-link {
   text-decoration: none !important;
   display: inline-block !important;
   margin-right: 0.25rem !important;
+  text-transform: none !important; // Keeps tags legible
 }
 
 a.internal.tag-link:hover {

@@ -1,5 +1,5 @@
 ---
-title: How to write Video Essays
+title: How to Write Video Essays
 draft: false
 ---
 Bee, Z. (2022, February 27). _How to write video essays_ [Video]. YouTube. [https://www.youtube.com/watch?v=A778TAHB9hw](https://www.youtube.com/watch?v=A778TAHB9hw)

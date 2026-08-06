@@ -14,8 +14,18 @@ draft: false
 
 4. Make gifts
 5. The ordinary + extra attention = the extraordinary
-6. Slay the art monsters
-7. You are allowed to change your mind
+
+Pay attention to what you pay attention to
+
+"For anyon trying to discern what to do with their life: pay attention what you pay attention to. That's pretty much all the info you need" - Amy Krouse Rosenthal
+
+Your attention is one of the most valuable things you possess, which is why everyone wants to steal it from you. First you must protect it, and then you must point it in the right direction
+
+When you have a system for going back through your work, you can better see the bigger picture of what you've been up to and what you should do next.
+
+
+4. Slay the art monsters
+5. You are allowed to change your mind
 
 "To be on brand is to be 100 percent certain of who yyou are and what you do, and certainty, in art and in life, is not only completely overrated, it is also a roadblock to discovery."
 

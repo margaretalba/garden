@@ -4,7 +4,7 @@ draft: false
 ---
 #creativity #substack
 
-##### [When Sharing Becomes the Creative Act](https://cyoo.substack.com/p/when-sharing-becomes-the-creative)by Carolyn Woo
+##### [When Sharing Becomes the Creative Act](https://cyoo.substack.com/p/when-sharing-becomes-the-creative)by Carolyn Yoo
 
 "Last month I read the fantastic essay “[I Don’t Want to Show You My Work”](https://www.instagram.com/p/DUQyYqICfD_/?img_index=1) by designer James Junk. He laments how posting the creative process online now feels like a precedent, not a byproduct of creating. What this means in practice is that the “process” is made to look coherent and picture perfect, thereby obfuscating the reality of the creative process."
 

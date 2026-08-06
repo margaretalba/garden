@@ -9,9 +9,9 @@
 		{"id":"86851ff66874be36","type":"text","text":"Archibald, S. (2024, June 5). _The lens of desire: Eye miniatures (ca. 1790–1810)_. The Public Domain Review. Retrieved August 2, 2026, from [https://publicdomainreview.org/collection/eye-miniatures/](https://publicdomainreview.org/collection/eye-miniatures/)","x":-209,"y":220,"width":250,"height":60},
 		{"id":"930dd4b27f007a49","type":"file","file":"References/Inspo/Images/54.128.5.png","x":-409,"y":840,"width":400,"height":355},
 		{"id":"650cec7f1c2e18e2","type":"text","text":"Chatelaines","x":1020,"y":440,"width":250,"height":60},
-		{"id":"8ea436feeadf4869","type":"file","file":"References/Inspo/Images/Pasted image 20260802174614.png","x":1020,"y":580,"width":203,"height":400},
-		{"id":"5889b276b8a4ca1e","x":1270,"y":580,"width":278,"height":400,"type":"file","file":"References/Inspo/Images/Pasted image 20260802174828.png"},
-		{"id":"1cfdc3d481d087ba","x":1320,"y":100,"width":300,"height":400,"type":"file","file":"References/Inspo/Images/Pasted image 20260802174645.png"}
+		{"id":"8ea436feeadf4869","type":"file","file":"References/Inspo/Images/Pasted image 20260802174614.png","x":1020,"y":580,"width":203,"height":399},
+		{"id":"5889b276b8a4ca1e","type":"file","file":"References/Inspo/Images/Pasted image 20260802174828.png","x":1270,"y":580,"width":278,"height":400},
+		{"id":"1cfdc3d481d087ba","type":"file","file":"References/Inspo/Images/Pasted image 20260802174645.png","x":1320,"y":100,"width":300,"height":400}
 	],
 	"edges":[
 		{"id":"87414a3e84fda94c","fromNode":"86851ff66874be36","fromSide":"bottom","toNode":"cfec3238da53919d","toSide":"top"},

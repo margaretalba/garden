@@ -8,7 +8,7 @@ Welcome to my digital garden! This is a public, evolving collection of my notes,
 
 ### ✿ Explore Folders
 
-- [How To](https://garden.margaretalba.com/how-to/) — Notes on materials, jewelry techniques, and fabrication.
+- [How To](https://garden.margaretalba.com/how-to/) — Collected notes on crafts, video taking, writing, and jewelry.
 - [Projects](https://garden.margaretalba.com/projects/) — What I am currently building and experimenting with.
 - [References](https://garden.margaretalba.com/references/) — YouTube essays, substacks, books and images 
 

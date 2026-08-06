@@ -15,7 +15,6 @@ body {
   font-weight: 400;
   letter-spacing: 0em;
   line-height: 1.91em;
-  color: #34397B;
 }
 
 // Headings mapped precisely to your IvyPresto display styles
@@ -25,7 +24,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 100;
   letter-spacing: -0.03em;
   line-height: 1.2em;
-  color: #34397B;
 }
 
 h1 { font-size: 2.5rem; }
@@ -47,7 +45,7 @@ h4 { font-size: .6rem;
 // Clean, subtle tag pills
 a.internal.tag-link {
   background-color: var(--lightgray) !important;
-  color: #34397B;) !important;
+  color: var(--darkgray) !important;
   padding: 0.2rem 0.5rem !important;
   border-radius: 4px !important;
   font-size: 0.85rem !important;

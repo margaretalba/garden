@@ -11,7 +11,8 @@
 		{"id":"650cec7f1c2e18e2","type":"text","text":"Chatelaines","x":1020,"y":440,"width":250,"height":60},
 		{"id":"8ea436feeadf4869","type":"file","file":"References/Inspo/Images/Pasted image 20260802174614.png","x":1020,"y":580,"width":203,"height":399},
 		{"id":"5889b276b8a4ca1e","type":"file","file":"References/Inspo/Images/Pasted image 20260802174828.png","x":1270,"y":580,"width":278,"height":400},
-		{"id":"1cfdc3d481d087ba","type":"file","file":"References/Inspo/Images/Pasted image 20260802174645.png","x":1320,"y":100,"width":300,"height":400}
+		{"id":"1cfdc3d481d087ba","type":"file","file":"References/Inspo/Images/Pasted image 20260802174645.png","x":1320,"y":100,"width":300,"height":400},
+		{"id":"a5b439ac345dc406","x":880,"y":-1000,"width":390,"height":400,"type":"file","file":"Projects/Screenshot_20260806-150449 1.png"}
 	],
 	"edges":[
 		{"id":"87414a3e84fda94c","fromNode":"86851ff66874be36","fromSide":"bottom","toNode":"cfec3238da53919d","toSide":"top"},

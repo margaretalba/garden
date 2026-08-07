@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"a9780ff5fe3ec7c8","type":"file","file":"References/Inspo/Images/Pasted image 20260805201426.png","x":0,"y":0,"width":263,"height":400},
-		{"id":"1ab3c1b6f3d4a0de","x":157,"y":-198,"width":250,"height":60,"type":"text","text":""},
-		{"id":"bb2431f6f46da465","x":-300,"y":0,"width":263,"height":400,"type":"file","file":"References/Inspo/Images/Pasted image 20260805201527.png"}
+		{"id":"a9780ff5fe3ec7c8","type":"file","file":"References/Inspo/Images/Pasted image 20260805201426.png","x":0,"y":0,"width":263,"height":399},
+		{"id":"bb2431f6f46da465","type":"file","file":"References/Inspo/Images/Pasted image 20260805201527.png","x":-300,"y":0,"width":263,"height":399}
 	],
 	"edges":[]
 }

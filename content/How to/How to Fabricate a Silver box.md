@@ -12,3 +12,5 @@ Notes:
 - Lid edge is on inside
 - Bezel inside
 - I'm a fan of the egg shape
+
+Duncan, A. (2022, February 16). _The making of a sterling silver, folded box with flush hinge_ [Video]. YouTube. [https://www.youtube.com/watch?v=cItX2oC6dx8](https://www.youtube.com/watch?v=cItX2oC6dx8)

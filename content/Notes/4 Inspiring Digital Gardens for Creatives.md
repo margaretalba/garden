@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Digital Gardens for Creatives
 draft: false
 ---
 #digital-garden #creativity 

@@ -1,5 +1,5 @@
 ---
-title: How to make a silver box for jewellery
+title: How to Make a Silver Box
 draft: false
 ---
 #capsule #metalsmithing

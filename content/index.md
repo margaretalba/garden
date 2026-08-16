@@ -6,7 +6,7 @@ Welcome to my digital garden! This is a public, evolving collection of my notes,
 ### ✿ About Margaret
 I am a multi-disciplinary designer who loves video essays, metalsmithing, and a good hand-written letter.
 
-### ✿ About Digital Garden
+### ✿ About Digital Gardens
 Digital gardens are ever-evolving online spaces that encourages curiosity and learning while fostering new ideas. 
 
 ### ✿ Explore Folders

@@ -49,11 +49,7 @@ plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      showCreated: true
-      showModified: true
-      defaultDateType: modified
       priority:
-        - frontmatter
         - git
         - filesystem
     order: 10

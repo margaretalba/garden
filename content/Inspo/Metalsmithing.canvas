@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"5229aedb2abc679e","type":"file","file":"Inspo/Images/Anonymous ca. 1790–1810 2.png","x":160,"y":380,"width":278,"height":400},
+		{"id":"b90cf42f6dfa86a7","type":"file","file":"Inspo/Images/Anonymous ca. 1790–1810.png","x":120,"y":-244,"width":400,"height":312},
+		{"id":"f4cb74111fe91a2d","type":"file","file":"Inspo/Images/Pasted image 20260802172636.png","x":-438,"y":-244,"width":316,"height":400},
+		{"id":"e78e60794de392f6","type":"file","file":"Inspo/Images/Pasted image 20260802172654.png","x":-622,"y":312,"width":184,"height":400},
+		{"id":"cfec3238da53919d","type":"file","file":"Inspo/Images/Pasted image 20260802172606.png","x":-247,"y":455,"width":325,"height":257},
+		{"id":"3583c76df2712008","type":"text","text":"AN OUROBORUS!!! ??","x":-172,"y":712,"width":250,"height":60},
+		{"id":"86851ff66874be36","type":"text","text":"Archibald, S. (2024, June 5). _The lens of desire: Eye miniatures (ca. 1790–1810)_. The Public Domain Review. Retrieved August 2, 2026, from [https://publicdomainreview.org/collection/eye-miniatures/](https://publicdomainreview.org/collection/eye-miniatures/)","x":-209,"y":220,"width":250,"height":60},
+		{"id":"930dd4b27f007a49","type":"file","file":"Inspo/Images/54.128.5.png","x":-409,"y":840,"width":400,"height":355},
+		{"id":"650cec7f1c2e18e2","type":"text","text":"Chatelaines","x":1020,"y":440,"width":250,"height":60},
+		{"id":"8ea436feeadf4869","type":"file","file":"Inspo/Images/Pasted image 20260802174614.png","x":1020,"y":580,"width":203,"height":399},
+		{"id":"5889b276b8a4ca1e","type":"file","file":"Inspo/Images/Pasted image 20260802174828.png","x":1270,"y":580,"width":278,"height":400},
+		{"id":"1cfdc3d481d087ba","type":"file","file":"Inspo/Images/Pasted image 20260802174645.png","x":1320,"y":100,"width":300,"height":400},
+		{"id":"a5b439ac345dc406","type":"file","file":"Inspo/Images/Screenshot_20260806-150449 1.png","x":880,"y":-1000,"width":390,"height":400}
+	],
+	"edges":[
+		{"id":"87414a3e84fda94c","fromNode":"86851ff66874be36","fromSide":"bottom","toNode":"cfec3238da53919d","toSide":"top"},
+		{"id":"4385e38697aa9ef5","fromNode":"86851ff66874be36","fromSide":"top","toNode":"f4cb74111fe91a2d","toSide":"bottom"},
+		{"id":"2976dd4660398eca","fromNode":"86851ff66874be36","fromSide":"top","toNode":"b90cf42f6dfa86a7","toSide":"bottom"},
+		{"id":"21ed2ede16d56e63","fromNode":"86851ff66874be36","fromSide":"top","toNode":"5229aedb2abc679e","toSide":"top"},
+		{"id":"99de3319b208416f","fromNode":"86851ff66874be36","fromSide":"left","toNode":"e78e60794de392f6","toSide":"top"}
+	]
+}

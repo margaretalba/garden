@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"b38511dbf6abc428","type":"file","file":"Inspo/Images/Screenshot 2026-07-25 at 9.02.10 AM.png","x":-140,"y":-580,"width":400,"height":383},
+		{"id":"1fcf22dd55d2f87b","type":"file","file":"Inspo/Images/victorian-signet.jpg","x":-420,"y":-80,"width":400,"height":400},
+		{"id":"dbcd35a26efd6c00","type":"file","file":"Inspo/Images/Pasted image 20260731232244.png","x":-640,"y":-720,"width":360,"height":480},
+		{"id":"4afcb49827a9a725","type":"file","file":"Inspo/Images/Pasted image 20260731232229.png","x":-840,"y":-80,"width":400,"height":219},
+		{"id":"10f248760258f72e","type":"file","file":"Inspo/Images/Pasted image 20260731232213.png","x":-724,"y":139,"width":284,"height":400},
+		{"id":"508c54fb2628304c","type":"file","file":"Inspo/Images/Kathryn Hastings’ Custom Wax Seal Collection with Personalized Letter.png","x":680,"y":-520,"width":300,"height":400},
+		{"id":"fc4b3e4d3242f403","type":"file","file":"Inspo/Images/Pasted image 20260802223440.png","x":-420,"y":400,"width":400,"height":397},
+		{"id":"558b31184e9591f4","type":"file","file":"Inspo/Images/Kathryn Hastings.png","x":680,"y":-980,"width":280,"height":400}
+	],
+	"edges":[
+		{"id":"dd85c9e99e54b8c9","fromNode":"1fcf22dd55d2f87b","fromSide":"top","toNode":"b38511dbf6abc428","toSide":"bottom"},
+		{"id":"74f34fa039a85903","fromNode":"dbcd35a26efd6c00","fromSide":"right","toNode":"b38511dbf6abc428","toSide":"left"}
+	]
+}

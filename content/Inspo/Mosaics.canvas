@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"48358e9981959150","type":"file","file":"Inspo/Images/Pasted image 20260807151932.png","x":140,"y":-340,"width":400,"height":226},
+		{"id":"ea773802d00f1377","type":"file","file":"Inspo/Images/Pasted image 20260807151948.png","x":140,"y":-60,"width":276,"height":400},
+		{"id":"fc668a233b34a300","type":"file","file":"Inspo/Images/Pasted image 20260807152008.png","x":-211,"y":120,"width":293,"height":400},
+		{"id":"eebe20f6f2e7d2c4","type":"file","file":"Inspo/Images/Pasted image 20260807153144.png","x":-760,"y":680,"width":400,"height":382},
+		{"id":"ba90a59fe857b531","type":"file","file":"Inspo/Images/Pasted image 20260807152744.png","x":-760,"y":360,"width":400,"height":267},
+		{"id":"2d78ba05cdf63b36","type":"file","file":"Inspo/Images/Pasted image 20260807152753.png","x":-760,"y":-80,"width":266,"height":400},
+		{"id":"842e17793fa32869","type":"file","file":"Inspo/Images/Pasted image 20260807153348.png","x":110,"y":444,"width":400,"height":400},
+		{"id":"60fb543f65c02fb5","type":"file","file":"Inspo/Images/Pasted image 20260807151831.png","x":960,"y":-280,"width":350,"height":400},
+		{"id":"b23117d80d5b9bec","type":"file","file":"Inspo/Images/Pasted image 20260807153457.png","x":440,"y":-80,"width":320,"height":400},
+		{"id":"0ccaeee0ad924b7d","type":"file","file":"Inspo/Images/Pasted image 20260807153836.png","x":540,"y":360,"width":400,"height":400},
+		{"id":"d2fed54c8c013aba","type":"text","text":"Possible Motifs:\nGeese\nRabbits\nCorgi","x":635,"y":-600,"width":250,"height":290}
+	],
+	"edges":[]
+}

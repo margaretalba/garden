@@ -10,13 +10,12 @@ Hi I'm Margaret and I'm a creator
 
 And I think I've found a solution: digital gardening.
 ### What is digital gardening?
-Digital gardening is like a personal wiki. A second-brain. A common-place journal.
-
+Digital gardening is like a personal wiki. A second-brain. A common-place journal. It’s a place that you can create online that encourages continuous learning, exploration, and growth, much like tending to a physical garden
 "The gardening approach is used, for example, to conceptualize online spaces where seeds (or thoughts) are nurtured and grown, crossfertilization of formerly separate entries allow for new reflections,and gardening processes require constant care to flourish" [[Digital gardening with a forest atlas]]
 
 It's not considered a blog, because it's non-chronological. You're encouraged to build upon topics, as if you're growing a garden. 
 
-It's not a mood board, because the goal is to connect the dots. Connect two different ideas or sources, and come up with a uniquely you idea. 
+It's not a mood board, because the goal is to connect the dots. Connect two different ideas or sources, and come up with a uniquely you idea. Learning in public
 
 ### How did it start?
 The first recorded mention of the term Digital Gardening is Mark Bernstein's 1998 essay Hypertext Gardens. But how we use them today is more similar to [blanks] essay.
@@ -25,15 +24,19 @@ The first recorded mention of the term Digital Gardening is Mark Bernstein's 199
 
 Digital gardening is not focused on an outcome. It's driven by curiosity, and it's a journey.
 
-2. It serves as a home for all things your inspired by: a book you really liked and a movie that you loved, an article you read. It can be images, a quote, a screenshot. All of these are possible items you can include in your digital garden
-3. Less pressure. A digital garden is not like a blog or instagram - you don't have to publish an article or even finished thoughts. Technically, you don't even have to share it! 
-4. You notice patterns
+1. It serves as a home for all things your inspired by: a book you really liked and a movie that you loved, an article you read. It can be images, a quote, a screenshot. All of these are possible items you can include in your digital garden
+2. Less pressure. A digital garden is not like a blog or instagram - you don't have to publish an article or even finished thoughts. Technically, you don't even have to share it! 
+3. You notice patterns
    In Keep Going by Austin Kleon, he writes about how to stay creative. One of his points is to Pay attention to what you pay attention to. What are the things that you're inspired by? That bring you joy? Then he recommends collecting these things whether by writing, or by drawings and look for patterns. And through these patterns, it reveals something about you to you. I think digital gardening does a great job of mapping out your interests in a way that makes it easier to spot patterns.
    
-   It's even easier when you use the tag feaature. For example, say I make a note about Essay writing last year, and then come across a really informative substack about how write essays today. I can add what I've learned into that, and link them together with tags.
+   It's even easier when you use the tag feature. For example, say I make a note about Essay writing last year, and then come across a really informative substack about how write essays today. I can add what I've learned into that, and link them together with tags.
    
    It's also malleable. Unlike Pinterest, you can connect a quote to a photo to an article to an essay.  You're not just restricted by photos.
+1. . You can connect two thoughts to create new ideas
+   Related to the previous thought about patterns, Because of the bilateral links and tagging system, you can literally see the connection between two ideas. 
 2. It's a way to be on the internet that's not beholden to an algorithm. God knows there's not many spaces like that anymore. There's no ads. No feed. Just a good old-school internet page.
+3. You become an active learner
+   Since digital gardening, I've been actually taking notes from things that I consume. Like a YouTube video on how to make essays. Or on a book. This helps the information sink in, and give them staying power. It also helps I can always refer back to them.
 
 ### How to use it as a creative
 
@@ -70,7 +73,7 @@ There's a couple tools you can use: Obsidian, Notion are just two of them. I men
 
 I use Obsidian, mostly because I love the mind map part of it. Notion is great too. Whichever you choose largely depends on your needs. I like Obsidian because of it's simplicity. But if you want to publish online for free like I have, you have to have a little github experience. Let me know if you want a video on that.
 
-Notion is great too! There are digital gardening templates that are great, I'll list some down below. What I've personally found is sometimes Notion offers me too much personalization and freedom, that I get caught up in making it look good rather than actually writing. But again! It's all a preference.
+Notion is great too! There are digital gardening templates that are great, I'll list some down below. What I've personally found is sometimes Notion offers me too much personalization and freedom, that I get caught up in making it look good rather than actually writing. But again! It's all a preference. Notion doesn't require coding knowledge. If you want to create your own on Notion, Maggie Appleton makes a [great tutorial](https://maggieappleton.com/nontechnical-gardening) and goes over pros and cons in better detail.
 ### My experience
 
 Since digital gardening, I'm actually motivated to collect sources, to write my thoughts on them. It's made me not only consume content thoughtfully, but actually seek out and research. I want a loooong list of How tos for future me to visit. I want to see the patterns develop in the little brain map. But those are things that come with time and tending to, just like an actual garden.

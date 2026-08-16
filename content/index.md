@@ -2,7 +2,7 @@
 title: Welcome to My Digital Garden
 ---
 
-Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes. I am a multi-disciplinary designer who loves going into rabbit holes and deep dives while creating interesting objects for fun.
+Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes. I am a multi-disciplinary designer who loves video essays, metalsmithing, and a good hand-written letter.
 
 ---
 

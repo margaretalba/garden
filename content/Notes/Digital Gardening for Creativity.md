@@ -10,7 +10,8 @@ Hi I'm Margaret and I'm a creator
 
 And I think I've found a solution: digital gardening.
 ### What is digital gardening?
-Digital gardening is like a personal wiki. A second-brain. A common-place journal. It’s a place that you can create online that encourages continuous learning, exploration, and growth, much like tending to a physical garden
+Digital gardening is like a personal wiki. A second-brain. A common-place journal. It’s a place that encourages continuous learning, exploration, and growth, much like tending to a physical garden.
+
 "The gardening approach is used, for example, to conceptualize online spaces where seeds (or thoughts) are nurtured and grown, crossfertilization of formerly separate entries allow for new reflections,and gardening processes require constant care to flourish" [[Digital gardening with a forest atlas]]
 
 It's not considered a blog, because it's non-chronological. You're encouraged to build upon topics, as if you're growing a garden. 

@@ -193,7 +193,7 @@ plugins:
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
-      position: beforeBody
+      position: afterBody # <-- Changed from beforeBody to afterBody
       priority: 20
   - source: "@quartz-community/tag-list"
     enabled: false

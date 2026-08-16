@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden
 ---
-## Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes. 
+Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes. 
 
 ### ✿ About Margaret
 I am a multi-disciplinary designer who loves video essays, metalsmithing, and a good hand-written letter.

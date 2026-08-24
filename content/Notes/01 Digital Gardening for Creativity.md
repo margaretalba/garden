@@ -2,7 +2,7 @@
 title: Digital gardening for creativity
 draft: true
 created: 2026-08-15T22:36:36
-updated: 2026-08-20T22:51:25
+updated: 2026-08-23T12:16:39
 ---
 #digital-garden #essay
 
@@ -59,6 +59,15 @@ Even at the time of this video, I haven't found many public digital gardens that
 It wasn't until I came across Carolyn Yoo's digital garden that it finally clicked with me. Carolyn is an artist and writer and I love her substack. Her digital garden is public and it's a personal wiki. A list of how-tos. A collection of concepts. References. Honestly it was seeing the list of how-tos that inspired me to start my own. I consume so many how-to videos/articles - it's so nice to compile them in a space I can visit and navigate easily.
 
 #### Examples
+
+Collect how-tos
+Articles on business skills
+Moodboard
+Reviews
+Book reports
+Mini-essays
+Explore concepts that you're interested in
+ 
 If you're an artist, you can use a digital garden to collect design inspiration from books and online. You can document your creative process, and if you're feeling up for it, show it to potential employers in an interview. What I've been doing, is going through my different art books and taking photos of things that inspire me and putting them in my digital garden - so it's all in one place where I can see.
 
 If you're a writer, you can collect quotes, and write stories. Actually many writers use Obsidian to create their literary worlds. 

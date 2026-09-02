@@ -4,6 +4,7 @@ draft: false
 created: 2026-08-15T22:58:33
 updated: 2026-08-20T22:53:36
 ---
+
 #digital-garden #creativity 
 I've been obsessed with digital gardens lately.
 

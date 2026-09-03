@@ -32,7 +32,7 @@ configuration:
         darkgray: "#2b2927"      # Dark charcoal body text for elegant contrast
         dark: "#111111"          # Near-black for deep, bold headers
         secondary: "#B54328"     # Matte metallic gold for hyperlinks and primary accents
-        tertiary: "#dfc48c"      # Lighter champagne gold for hover states
+        tertiary: "#bf4c31"      # Lighter champagne gold for hover states
         highlight: "rgba(197, 160, 89, 0.06)" # Soft transparent gold for background highlights
         textHighlight: "#fff23688"
       darkMode:

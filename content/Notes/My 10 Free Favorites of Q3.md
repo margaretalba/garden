@@ -2,15 +2,15 @@
 title: My 10 Free Favorites of August
 draft: false
 created: 2026-08-16T21:52:29
-updated: 2026-09-01T23:40:27
+updated: 2026-09-02T20:25:31
 ---
-I'm a *sucker* for a favorites list - if you write it, I'll read it. But this past summer, something shifted. I was picking things to sell at our garage sale and I found *piles* (PILES!) of forgotten makeup, clothes, accessories, and crafts. All items I remember thinking "this is needed, this is an investment, I'll use this again". All items that used to be money, that used to be time.
+I'm a *sucker* for a favorites list - if you write it, I'll read it. But this past summer, something shifted. I was picking things to sell at our garage sale and I found *piles* (PILES!) of forgotten makeup, clothes, accessories, and crafts. All items I remember thinking "this is needed, this is an investment, I'll use this again".
 
 And so, I made a vow: be incredibly, annoyingly intentional of things I bring into my house. This looked like taking a beat before making an impulse purchase, checking my Facebook Buy Nothing, and "shopping" the things I already have. 
 
 With this mindset, it then made me realize how much of these favorites lists were just focused on buying, buying, buying. What would an alternative list look like?
 
-Welcome to Free Favorites - a list of things I've loved this past quarter that won't inspire you to buy something new (unless you count a Forever Stamp) and won't include affiliate links. It's a way to challenge myself to find joy in the things that don't have a price tag.
+**Welcome to Free Favorites** - a list of things I've loved this past quarter that won't inspire you to buy something new (unless you count a Forever Stamp) and won't include affiliate links. This is *not* to say I didn't buy anything at all. But I really wanted to challenge myself to seek joy in the things that don't have a price tag. 
 
 1. **Digital Gardens**
    I've dug deeeeeep into digital gardens and I've recommended them to every creative I know. I'm in so deep that my digital garden is, frankly, mostly about digital gardens. 

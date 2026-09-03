@@ -2,7 +2,7 @@
 title: Digital Gardens for Creatives
 draft: false
 created: 2026-08-15T22:58:33
-updated: 2026-09-02T23:03:31
+updated: 2026-09-02T23:03:45
 ---
 
 #digital-garden #creativity 

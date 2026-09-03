@@ -1,6 +1,6 @@
 ---
 title: How to Become a Crafting Content Creator
-draft: true
+draft: false
 created: 2026-09-02T21:41:28
 updated: 2026-09-02T22:04:11
 ---

@@ -1,9 +1,11 @@
 ---
 title: Flipping Wax Seal Signet
 draft: false
+created: 2026-08-07T15:22:16
+updated: 2026-09-02T22:09:58
 ---
 
-#signet #ring #jewelry
+#signet #ring #jewelry #metalsmithing 
 
 I've been dreaming about a wax seal signet ever since I started writing letters earlier this year. I looove this [Swallows one](https://misterrobinson.co/products/swallow-wax-seal?_pos=1&_sid=f44c2e074&_ss=r) from Mister Robinson. It feels fresh and new but also nostalgic at the same time.
 

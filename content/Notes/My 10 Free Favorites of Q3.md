@@ -2,8 +2,10 @@
 title: My 10 Free Favorites of August
 draft: false
 created: 2026-08-16T21:52:29
-updated: 2026-09-02T20:25:31
+updated: 2026-09-02T22:10:26
 ---
+#favorites 
+
 I'm a *sucker* for a favorites list - if you write it, I'll read it. But this past summer, something shifted. I was picking things to sell at our garage sale and I found *piles* (PILES!) of forgotten makeup, clothes, accessories, and crafts. All items I remember thinking "this is needed, this is an investment, I'll use this again".
 
 And so, I made a vow: be incredibly, annoyingly intentional of things I bring into my house. This looked like taking a beat before making an impulse purchase, checking my Facebook Buy Nothing, and "shopping" the things I already have. 
@@ -32,11 +34,11 @@ With this mindset, it then made me realize how much of these favorites lists wer
    Borrowed this from the library after a loooong stint of DNFs (to the point where I questioned my ability to actually finish a book).
    
    I've read Kleon's work in the past and they're easy to read, to the point, and each one inspires me to actually create. This book was no exception. I logged my favorite quotes in my digital garden. And YES! I did finish this book. 
-1.  [Quietly Public](https://cyoo.substack.com/t/quietly-public) series by Carolyn Yoo
+6.  [Quietly Public](https://cyoo.substack.com/t/quietly-public) series by Carolyn Yoo
    When I deactivated my Instagram in January, I honestly did not know what my future as a creative would look like. Sure, I work full-time, but what if I wanted to release a new collection? How do I share things I'm working on? What would that look like without marketing on Instagram? 
    
    Turns out, Carolyn Yoo has been exploring that herself by interviewing people who are creating their own worlds on the internet. It's also her article on [Digital Gardening](https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly) that gave me the biggest push to start my own. 
-2. **Youtube Videos for Background Listening**
+7. **Youtube Videos for Background Listening**
    I feel like all my friends know at this point, but I LOVE a good YouTube essay and commentary. I'm guilty of treating these videos as podcasts while I draw or work on something.
    
    This month, I've been listening more to commentators and here are my current favorites:
@@ -46,14 +48,14 @@ With this mindset, it then made me realize how much of these favorites lists wer
    
    **Zach from Swiftologist**
    Zach reviews songs and albums and comments on pop music. Although I don't agree with some of his points, I ***wish*** I could write like how he thinks. He can dissect a song with such precision, sometimes I find myself rewinding just to hear his sentences again (he also speaks faster than any other YouTuber I know)
-3. **Olivia Rodrigo and Kacey Musgraves' new albums**
+8. **Olivia Rodrigo and Kacey Musgraves' new albums**
    Yes, these two albums released earlier this year, not actually in August. Yes, I'm still including them in this list.
    
    Olivia Rodrigo's You Seem Pretty Sad for a Girl So in Love is an absolutely stunning album. I'm honestly in awe of her songwriting and I wish I had this album to listen to on repeat when I was in my 20s. It would've been hella cathartic. Favorites include: Wrong with Me and Expectations.
    
    Kacey Musgraves' Middle of Nowhere
    I heard Uncertain, Tx, and it was love at first listen. As someone born and raised in Texas and now living in Oregon - it hit this sweet balance of nostalgia and witty songwriting. I've had the entire album on repeat since. Favorites include: Rhinestoned and Dry Spell.
-4. **Writing letters**
+9. **Writing letters**
    This has been one of my favorite things the entire year. I've been writing so many more letters, I've actually gotten a little craft box ***dedicated*** to letters complete with vintage stamps, wax seals, postcards, different types stationery and pens. 
    
    It's been my favorite way to catch up with friends. Maybe it's the act of actually putting pen to paper, but I've found the most meaningful conversations (besides talking in person ofc) happen in letters. And I'm near giddy whenever I receive one back in the mail. 

@@ -31,7 +31,7 @@ configuration:
         gray: "#8c8a84"          # Muted warm gray for metadata, tags, and dates
         darkgray: "#2b2927"      # Dark charcoal body text for elegant contrast
         dark: "#111111"          # Near-black for deep, bold headers
-        secondary: "#c5a059"     # Matte metallic gold for hyperlinks and primary accents
+        secondary: "#B54328"     # Matte metallic gold for hyperlinks and primary accents
         tertiary: "#dfc48c"      # Lighter champagne gold for hover states
         highlight: "rgba(197, 160, 89, 0.06)" # Soft transparent gold for background highlights
         textHighlight: "#fff23688"

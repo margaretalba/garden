@@ -1,6 +1,8 @@
 ---
 title: How to Write Video Essays
 draft: false
+created: 2026-08-06T22:16:07
+updated: 2026-09-02T20:00:30
 ---
 #essays
 
@@ -13,6 +15,7 @@ Write like you're talking
 
 Ferguson, T. (2025, November 28). _Write & edit a video essay with me! ✍️ (Internet Analysis)_ [Video]. YouTube. [https://www.youtube.com/watch?v=74AdckynQEI](https://www.youtube.com/watch?v=74AdckynQEI)
 
+VoicePrompter
 
 
 

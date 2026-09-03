@@ -10,7 +10,8 @@
 		{"id":"60fb543f65c02fb5","type":"file","file":"Inspo/Images/Pasted image 20260807151831.png","x":960,"y":-280,"width":350,"height":400},
 		{"id":"b23117d80d5b9bec","type":"file","file":"Inspo/Images/Pasted image 20260807153457.png","x":440,"y":-80,"width":320,"height":400},
 		{"id":"0ccaeee0ad924b7d","type":"file","file":"Inspo/Images/Pasted image 20260807153836.png","x":540,"y":360,"width":400,"height":400},
-		{"id":"d2fed54c8c013aba","type":"text","text":"Possible Motifs:\nGeese\nRabbits\nCorgi","x":635,"y":-600,"width":250,"height":290}
+		{"id":"d2fed54c8c013aba","type":"text","text":"Possible Motifs:\nGeese\nRabbits\nCorgi","x":635,"y":-600,"width":250,"height":290},
+		{"id":"8c061debe0ec91e6","x":-400,"y":-510,"width":300,"height":400,"type":"file","file":"Inspo/Images/Pasted image 20260902200437.png"}
 	],
 	"edges":[]
 }

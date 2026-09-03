@@ -1,5 +1,5 @@
 ---
-title: How to be Creative
+title: How to Be Creative
 draft: false
 ---
 #creativity #quotes

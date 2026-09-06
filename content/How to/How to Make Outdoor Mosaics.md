@@ -1,8 +1,10 @@
 ---
 title: How to Make Outdoor Mosaics
 draft: false
+created: 2026-08-07T15:09:48
+updated: 2026-09-05T22:17:11
 ---
-#home #tile
+#home #tile #mosaics
 
 Miles, H. (2024, June 17). _Mastering outdoor mosaics: 4 key principles for long-lasting artwork_ [Video]. YouTube. [https://www.youtube.com/watch?v=maHiZCuGnRc](https://www.youtube.com/watch?v=maHiZCuGnRc)
 

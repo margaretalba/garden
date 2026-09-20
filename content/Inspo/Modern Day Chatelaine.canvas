@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9ed9c83d00a9f34d","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908202310.png","x":-300,"y":-300,"width":320,"height":400},
+		{"id":"b9dddda3f6913722","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908202358.png","x":160,"y":-180,"width":225,"height":400},
+		{"id":"8db998deec89da7e","type":"text","text":"https://www.pinterest.com/pin/771452611208863505/","x":160,"y":280,"width":250,"height":60},
+		{"id":"22a31d455824c713","type":"text","text":"![[Pasted image 20260908133240.png|321]]","x":-380,"y":180,"width":250,"height":320},
+		{"id":"6b26c4f1fb9e4128","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908202543.png","x":-80,"y":340,"width":352,"height":440},
+		{"id":"f8e4c923d503e793","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908212351.png","x":-620,"y":-100,"width":140,"height":140},
+		{"id":"ce30404ecf7e273c","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908212607.png","x":-840,"y":240,"width":200,"height":200},
+		{"id":"86beaae005e183b3","type":"text","text":"#Carabiner","x":-965,"y":100,"width":250,"height":60},
+		{"id":"4134f5f95a44b310","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222348.png","x":-620,"y":840,"width":225,"height":400},
+		{"id":"d0a9ce90dd953eac","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222358.png","x":-951,"y":840,"width":311,"height":400},
+		{"id":"cce9eaba55f859a2","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222423.png","x":-347,"y":840,"width":267,"height":400},
+		{"id":"7f49b464033a7939","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222448.png","x":-15,"y":900,"width":300,"height":399},
+		{"id":"ccac70e53e6cab3d","x":298,"y":899,"width":225,"height":400,"type":"file","file":"Inspo/Images/Pasted image 20260908222646.png"},
+		{"id":"0628db270bc88558","x":600,"y":900,"width":267,"height":400,"type":"file","file":"Inspo/Images/Pasted image 20260908222720.png"},
+		{"id":"310f11d143b3aa20","x":600,"y":-60,"width":320,"height":400,"type":"file","file":"Inspo/Images/Pasted image 20260908223316.png"}
+	],
+	"edges":[
+		{"id":"1b16373c17293dde","fromNode":"8db998deec89da7e","fromSide":"top","toNode":"b9dddda3f6913722","toSide":"bottom"},
+		{"id":"c76ff978d39a68c5","fromNode":"86beaae005e183b3","fromSide":"bottom","toNode":"ce30404ecf7e273c","toSide":"top"},
+		{"id":"6d3e1814d7c16536","fromNode":"86beaae005e183b3","fromSide":"top","toNode":"f8e4c923d503e793","toSide":"bottom"}
+	]
+}

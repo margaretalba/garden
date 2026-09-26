@@ -2,9 +2,9 @@
 title: Digital gardening for creativity
 draft: true
 created: 2026-08-15T22:36:36
-updated: 2026-09-01T21:58:06
+updated: 2026-09-24T23:37:56
 ---
-#digital-garden #essay
+ #digital-garden #essay
 
 **Thesis:** What is digital gardening, and how can you use it as a creative? or Digital gardening is an invaluable tool for creatives or anyone wanting to cultivate their creativity.
 
@@ -151,3 +151,22 @@ Sure there is Pinterest. But at least for me images get forgotten or lost until 
 **Cool Digital Gardens**
 https://app.notion.com/p/digital-garden-202fbdf4ad4480538b87d2fcab8a5803
 
+
+Youtube Description
+[Mark Bernstein's Essay](https://www.eastgate.com/garden/Enter.html)
+[Maggie Appleton's Essay](https://maggieappleton.com/garden-history)
+[Mike Caufield's Essay](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+[Sweater curse](https://en.wikipedia.org/wiki/Sweater_curse)
+
+Platforms:
+-  [Obsidian](https://obsidian.md/)
+- [Notion](https://www.notion.com/) 
+- [Are.na](https://www.are.na/)
+- [Roam Garden](https://roam.garden/)
+- [Sublime](https://sublime.app/)
+
+Featured Digital Gardens
+ [Carolyn Yoo's digital garden](https://garden.carolynyoo.com/)
+ [Digital Garden](https://app.notion.com/p/digital-garden-202fbdf4ad4480538b87d2fcab8a5803)
+ [Mister Chad](https://mister-chad.com/welcome)
+ [The Garden ](https://maggieappleton.com/)

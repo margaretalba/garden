@@ -2,8 +2,9 @@
 title: "Emporia Diary: GRS Workshop"
 draft: false
 created: 2026-09-27T20:31:34
-updated: 2026-09-28T19:15:51
+updated: 2026-09-28T19:20:10
 ---
+#GRS #workshops #engraving
 
 **Sunday**
 Flew from Portland to Kansas City. 

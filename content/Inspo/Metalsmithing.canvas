@@ -1,8 +1,7 @@
 {
 	"nodes":[
 		{"id":"5229aedb2abc679e","type":"file","file":"Inspo/Images/Anonymous ca. 1790–1810 2.png","x":160,"y":380,"width":278,"height":400},
-		{"id":"b90cf42f6dfa86a7","type":"file","file":"Inspo/Images/Anonymous ca. 1790–1810.png","x":120,"y":-244,"width":400,"height":312},
-		{"id":"f4cb74111fe91a2d","type":"file","file":"Inspo/Images/Pasted image 20260802172636.png","x":-438,"y":-244,"width":316,"height":400},
+		{"id":"f4cb74111fe91a2d","type":"file","file":"Inspo/Images/Pasted image 20260802172636.png","x":-438,"y":-292,"width":354,"height":448},
 		{"id":"e78e60794de392f6","type":"file","file":"Inspo/Images/Pasted image 20260802172654.png","x":-622,"y":312,"width":184,"height":400},
 		{"id":"cfec3238da53919d","type":"file","file":"Inspo/Images/Pasted image 20260802172606.png","x":-247,"y":455,"width":325,"height":257},
 		{"id":"3583c76df2712008","type":"text","text":"AN OUROBORUS!!! ??","x":-172,"y":712,"width":250,"height":60},
@@ -13,7 +12,8 @@
 		{"id":"5889b276b8a4ca1e","type":"file","file":"Inspo/Images/Pasted image 20260802174828.png","x":1270,"y":580,"width":278,"height":400},
 		{"id":"1cfdc3d481d087ba","type":"file","file":"Inspo/Images/Pasted image 20260802174645.png","x":1320,"y":100,"width":300,"height":400},
 		{"id":"a5b439ac345dc406","type":"file","file":"Inspo/Images/Screenshot_20260806-150449 1.png","x":880,"y":-1000,"width":390,"height":400},
-		{"id":"9493fa7768ca6b7d","type":"text","text":"#metalsmithing ","x":1020,"y":350,"width":250,"height":60}
+		{"id":"9493fa7768ca6b7d","type":"text","text":"#metalsmithing ","x":1020,"y":350,"width":250,"height":60},
+		{"id":"b90cf42f6dfa86a7","type":"file","file":"Inspo/Images/Anonymous ca. 1790–1810.png","x":78,"y":-292,"width":400,"height":312}
 	],
 	"edges":[
 		{"id":"87414a3e84fda94c","fromNode":"86851ff66874be36","fromSide":"bottom","toNode":"cfec3238da53919d","toSide":"top"},

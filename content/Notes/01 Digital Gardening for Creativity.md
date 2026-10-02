@@ -2,7 +2,7 @@
 title: Digital gardening for creativity
 draft: true
 created: 2026-08-15T22:36:36
-updated: 2026-09-24T23:37:56
+updated: 2026-09-28T21:57:37
 ---
  #digital-garden #essay
 
@@ -157,9 +157,11 @@ Youtube Description
 [Maggie Appleton's Essay](https://maggieappleton.com/garden-history)
 [Mike Caufield's Essay](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 [Sweater curse](https://en.wikipedia.org/wiki/Sweater_curse)
+[Carolyn Yoo's Substack](https://cyoo.substack.com/)
 
 Platforms:
--  [Obsidian](https://obsidian.md/)
+- [Obsidian](https://obsidian.md/)
+	- [Quartz:](https://quartz.jzhao.xyz/) To publish your Obsidian for free
 - [Notion](https://www.notion.com/) 
 - [Are.na](https://www.are.na/)
 - [Roam Garden](https://roam.garden/)
@@ -170,3 +172,4 @@ Featured Digital Gardens
  [Digital Garden](https://app.notion.com/p/digital-garden-202fbdf4ad4480538b87d2fcab8a5803)
  [Mister Chad](https://mister-chad.com/welcome)
  [The Garden ](https://maggieappleton.com/)
+[ Harley Claes' Digital Garden](https://app.notion.com/p/digital-garden-202fbdf4ad4480538b87d2fcab8a5803)

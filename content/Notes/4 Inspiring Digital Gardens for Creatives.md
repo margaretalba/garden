@@ -2,7 +2,7 @@
 title: Digital Gardens for Creatives
 draft: false
 created: 2026-08-15T22:58:33
-updated: 2026-09-02T23:07:08
+updated: 2026-09-29T22:25:25
 ---
 
 #digital-garden #creativity 
@@ -62,4 +62,5 @@ You don't necessarily have to be a creative to peruse these, though I intentiona
 
 And yes, I have a digital garden! You can see it [here](https://garden.margaretalba.com/). 
 
-But how about you? Do you have a digital garden? If it's public, please share below!
+5.[ Eilleen's (online!) Everything Notebook](https://quartz.eilleeenz.com/)
+6. https://tanzi-media.com/Blogs/Technology/Instructional/quartz

@@ -2,7 +2,7 @@
 title: My 10 Free Favorites of August
 draft: false
 created: 2026-08-16T21:52:29
-updated: 2026-09-02T22:10:26
+updated: 2026-09-29T19:24:14
 ---
 #favorites 
 
@@ -60,4 +60,3 @@ With this mindset, it then made me realize how much of these favorites lists wer
    
    It's been my favorite way to catch up with friends. Maybe it's the act of actually putting pen to paper, but I've found the most meaningful conversations (besides talking in person ofc) happen in letters. And I'm near giddy whenever I receive one back in the mail. 
 
-But how about you? What would be on your Free Favorites list?

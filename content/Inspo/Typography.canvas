@@ -7,7 +7,7 @@
 		{"id":"1265ff94caa225a9","type":"file","file":"Inspo/Images/LMcDStainedGlass.png","x":-980,"y":-800,"width":400,"height":300},
 		{"id":"c07b57a90c6e636f","type":"file","file":"Inspo/Images/Pasted image 20260802173101.png","x":-464,"y":-460,"width":339,"height":400},
 		{"id":"c0bee5ba9847cc12","type":"file","file":"Inspo/Images/Pasted image 20260805201553.png","x":-911,"y":60,"width":263,"height":399},
-		{"id":"fff73482d9ba059c","type":"file","file":"Annette.jpg","x":-1340,"y":-38,"width":309,"height":400}
+		{"id":"fff73482d9ba059c","type":"file","file":"Inspo/Images/Annette.jpg","x":-1340,"y":-38,"width":309,"height":400}
 	],
 	"edges":[
 		{"id":"bd4a376ba5e63c75","fromNode":"86f1d11d996ac57f","fromSide":"top","toNode":"c07b57a90c6e636f","toSide":"right"},

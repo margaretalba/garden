@@ -2,7 +2,7 @@
 title: "Emporia Diary: GRS Workshop"
 draft: false
 created: 2026-09-27T20:31:34
-updated: 2026-09-28T20:31:04
+updated: 2026-09-29T19:25:13
 ---
 #GRS #workshops #engraving
 
@@ -19,3 +19,9 @@ LOTS of practice plates
 I wish I:
 - Stopped by Trader Joe's on the way here
 - Brought snacks or at least a proper meal
+
+**Tuesday**
+Made flat gravers
+Made patterns
+LOVE dolphin hopping/scallops
+SUCKED at dolphin hopping/scallops

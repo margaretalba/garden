@@ -2,7 +2,7 @@
 title: How to Inlay Metal
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-01T21:21:43
+updated: 2026-10-01T21:22:29
 ---
 #metalsmithing #GRS 
 
@@ -40,7 +40,7 @@ updated: 2026-10-01T21:21:43
    4. Connect points. Takes a couple passes to get to the depth you need.
    5. Take annealed copper wire. Make sure that the wire is half in the hole. ![[Pasted image 20261001211542.png|114]]
    6. Drag graver against the walls. ![[Pasted image 20261001211708.png|94]]
-   7. With onglette make thorns in metal. Don't be surprised if onglette breaks, it's fragile![[Pasted image 20261001211847.png]]
+   7. With onglette make thorns in metal. Don't be surprised if onglette breaks, it's fragile![[Pasted image 20261001211847.png|482]]
    8. Flatten wire ends with file
    9. Punch the wire in the channel. One spot at a time.
    10. Then go back and go over it with the pusher

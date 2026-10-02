@@ -1,4 +1,0 @@
----
-title: Entry
-draft: false
----

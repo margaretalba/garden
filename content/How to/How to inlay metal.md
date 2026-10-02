@@ -2,9 +2,9 @@
 title: How to Inlay Metal
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-01T21:22:29
+updated: 2026-10-01T21:23:42
 ---
-#metalsmithing #GRS 
+#metalsmithing #GRS #creativity 
 
 **Materials:**
 - [QC Onglette](https://grs.com/product/qc-onglette/?attribute_size=QC-1+%E2%80%A2+1+%281.78+mm%29)
@@ -45,5 +45,3 @@ updated: 2026-10-01T21:22:29
    9. Punch the wire in the channel. One spot at a time.
    10. Then go back and go over it with the pusher
    11. Sand
-  
-****

@@ -2,7 +2,7 @@
 title: How to Draw
 draft: false
 created: 2026-09-19T23:07:31
-updated: 2026-10-01T21:26:00
+updated: 2026-10-01T21:26:47
 ---
 #creativity #drawing
 

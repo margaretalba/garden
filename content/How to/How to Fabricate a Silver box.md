@@ -2,7 +2,7 @@
 title: How to Make a Silver Box
 draft: false
 created: 2026-10-01T21:24:34
-updated: 2026-10-01T21:26:00
+updated: 2026-10-01T21:26:47
 ---
 #capsule #metalsmithing
 

@@ -3,6 +3,8 @@ title: How to Digital Garden
 link: https://cyoo.substack.com/p/intro-to-digital-gardening-a-quietly
 Author: Carolyn Yoo
 draft: false
+created: 2026-10-01T21:24:34
+updated: 2026-10-01T21:26:00
 ---
 #digital-garden 
 

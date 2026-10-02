@@ -1,5 +1,7 @@
 ---
 title: Welcome to My Digital Garden
+created: 2026-08-16T01:40:10
+updated: 2026-10-01T21:24:34
 ---
 Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes. 
 

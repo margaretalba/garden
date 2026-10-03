@@ -2,9 +2,9 @@
 title: How to Inlay Metal
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-01T21:25:52
+updated: 2026-10-03T09:44:41
 ---
-#metalsmithing #GRS #creativity 
+#metalsmithing #GRS #creativity #engraving 
 
 **Materials:**
 - [QC Onglette](https://grs.com/product/qc-onglette/?attribute_size=QC-1+%E2%80%A2+1+%281.78+mm%29)

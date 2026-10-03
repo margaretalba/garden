@@ -2,9 +2,9 @@
 title: How to Engrave Scallops
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-02T22:43:43
+updated: 2026-10-03T09:44:36
 ---
-#metalsmithing #GRS #creativity 
+#metalsmithing #GRS #creativity #engraving
 
 **Materials:**
 - [C-Max #37 Tapered Flat](https://grs.com/product/c-max-tapered-flat/)

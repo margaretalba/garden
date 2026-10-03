@@ -12,9 +12,9 @@
 		{"id":"d0a9ce90dd953eac","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222358.png","x":-951,"y":840,"width":311,"height":400},
 		{"id":"cce9eaba55f859a2","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222423.png","x":-347,"y":840,"width":267,"height":400},
 		{"id":"7f49b464033a7939","type":"file","file":"Inspo/Images/Photos/Pasted image 20260908222448.png","x":-15,"y":900,"width":300,"height":399},
-		{"id":"ccac70e53e6cab3d","type":"file","file":"Inspo/Images/Pasted image 20260908222646.png","x":298,"y":899,"width":225,"height":400},
 		{"id":"0628db270bc88558","type":"file","file":"Inspo/Images/Pasted image 20260908222720.png","x":600,"y":900,"width":267,"height":400},
-		{"id":"310f11d143b3aa20","type":"file","file":"Inspo/Images/Pasted image 20260908223316.png","x":600,"y":-60,"width":320,"height":400}
+		{"id":"310f11d143b3aa20","type":"file","file":"Inspo/Images/Pasted image 20260908223316.png","x":600,"y":-60,"width":320,"height":400},
+		{"id":"ccac70e53e6cab3d","type":"file","file":"Inspo/Images/Pasted image 20260908222646.png","x":1080,"y":130,"width":648,"height":1152}
 	],
 	"edges":[
 		{"id":"1b16373c17293dde","fromNode":"8db998deec89da7e","fromSide":"top","toNode":"b9dddda3f6913722","toSide":"bottom"},

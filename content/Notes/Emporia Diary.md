@@ -2,7 +2,7 @@
 title: "Emporia Diary: GRS Workshop"
 draft: false
 created: 2026-09-27T20:31:34
-updated: 2026-09-29T19:25:13
+updated: 2026-10-01T22:11:49
 ---
 #GRS #workshops #engraving
 
@@ -25,3 +25,17 @@ Made flat gravers
 Made patterns
 LOVE dolphin hopping/scallops
 SUCKED at dolphin hopping/scallops
+
+**Wednesday**
+Star setting
+Inlay
+Dinner at Radius
+
+**Thursday**
+Tour facilities
+Talk to sales
+Flush setting
+Bead setting
+Lunch at Planet Sub
+
+

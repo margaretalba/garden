@@ -2,7 +2,7 @@
 title: Metalworking
 draft: false
 created: 2026-10-06T13:24:43
-updated: 2026-10-06T13:46:44
+updated: 2026-10-06T13:57:43
 ---
 ### Metalsmithing
 [[How to Fabricate a Silver box]]

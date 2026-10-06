@@ -2,7 +2,7 @@
 title: How to Make Outdoor Mosaics
 draft: false
 created: 2026-08-07T15:09:48
-updated: 2026-10-06T13:54:57
+updated: 2026-10-06T13:57:43
 ---
 #home #tile #mosaics
 

@@ -2,7 +2,7 @@
 title: A non-technical guide to quartz for Obsidian
 draft: true
 created: 2026-09-28T20:32:08
-updated: 2026-09-29T20:33:16
+updated: 2026-10-06T13:52:11
 ---
 
 *Disclaimer:*

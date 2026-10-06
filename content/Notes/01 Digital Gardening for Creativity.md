@@ -2,7 +2,7 @@
 title: Digital gardening for creativity
 draft: true
 created: 2026-08-15T22:36:36
-updated: 2026-09-28T21:57:37
+updated: 2026-10-06T13:52:11
 ---
  #digital-garden #essay
 

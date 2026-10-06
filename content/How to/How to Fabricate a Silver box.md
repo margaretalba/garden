@@ -2,9 +2,10 @@
 title: How to Make a Silver Box
 draft: false
 created: 2026-10-01T21:24:34
-updated: 2026-10-01T21:26:47
+updated: 2026-10-06T13:53:23
 ---
 #capsule #metalsmithing
+See more: [[Metalworking]]
 
 Ross, J. (n.d.). _How to make a silver box for jewellery_. Cooksongold. [https://www.cooksongold.com/blog/project/how-to-simple-silver-box/](https://www.cooksongold.com/blog/project/how-to-simple-silver-box/)
 

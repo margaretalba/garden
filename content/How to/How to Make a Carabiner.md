@@ -2,10 +2,10 @@
 title: How to Make a Carabiner
 draft: true
 created: 2026-09-08T13:19:33
-updated: 2026-10-01T22:08:06
+updated: 2026-10-06T13:53:17
 ---
 #chatelaine
-
+See more: [[Metalworking]]
 ##### Wire Carabiner Version
 
 Boyd Wire, H. [Heather Boyd Wire]. (2021, September 21). _Keychain making DIY tutorial // 16 gauge wire carabiner_ [Video]. YouTube. [https://www.youtube.com/watch?v=CMTBR9E6z4s](https://www.youtube.com/watch?v=CMTBR9E6z4s)

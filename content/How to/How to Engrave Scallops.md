@@ -2,9 +2,9 @@
 title: How to Engrave Scallops
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-06T13:42:23
+updated: 2026-10-06T13:54:09
 ---
-#metalsmithing #GRS #creativity #engraving
+#GRS #creativity #engraving
 See more: [[Metalworking]]
 
 ### Materials:

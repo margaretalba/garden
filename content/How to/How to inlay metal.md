@@ -2,9 +2,9 @@
 title: How to Inlay Metal
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-06T13:32:01
+updated: 2026-10-06T13:53:59
 ---
-#metalsmithing #GRS #creativity #engraving 
+#GRS #creativity #engraving 
 See more: [[Metalworking]]
 
 **Materials:**

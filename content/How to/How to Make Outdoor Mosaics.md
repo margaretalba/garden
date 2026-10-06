@@ -2,20 +2,20 @@
 title: How to Make Outdoor Mosaics
 draft: false
 created: 2026-08-07T15:09:48
-updated: 2026-09-26T16:10:17
+updated: 2026-10-06T13:54:57
 ---
 #home #tile #mosaics
 
 Miles, H. (2024, June 17). _Mastering outdoor mosaics: 4 key principles for long-lasting artwork_ [Video]. YouTube. [https://www.youtube.com/watch?v=maHiZCuGnRc](https://www.youtube.com/watch?v=maHiZCuGnRc)
 
-Outdoor substrates:
+#### Outdoor substrates:
 1. Wetty/Jacko board: compressed foam board to line bathrooms
 	1. Lightweight, cove the edges with tile adhesive
 2. Slate
 3. Terracotta pots are problematic
 4. Walls must be clean, dry, and rendered. (A coat of render on it)
 
-Outdoor adhesives
+#### Outdoor adhesives
 1. Keraflex/Thin Set
 	- Make sure it says exterior use
 	- Read the manufacturer's instructions

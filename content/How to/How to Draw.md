@@ -2,26 +2,26 @@
 title: How to Draw
 draft: false
 created: 2026-09-19T23:07:31
-updated: 2026-10-06T13:39:46
+updated: 2026-10-06T13:42:15
 ---
 #creativity #drawing
 
 Baker, S. D. (2021). _Draw your world: How to sketch and paint your remarkable life_. Watson-Guptill.
 
-## Recommended pencils
+### Recommended pencils
 Preferred Range: 4B-HB, pencils most used are 2B and 3B
 Blackwing Pearl, Caran d'Ache's Swiss Wood pencil
 
-## Recommended pens
+### Recommended pens
 Pigma Micron
 Faber-Castell Pitt Artist
 Pentel Arts
 Zig Millennium
 
-## Recommended Brushes
+### Recommended Brushes
 Winsor and Newton Series 7 in size 3 for small ullustrations
 
-## Your first drawing
+### Your first drawing
 1. Find something you are familiar with
 2. Spend 1-2 minutes just looking at it
 3. Just draw it.

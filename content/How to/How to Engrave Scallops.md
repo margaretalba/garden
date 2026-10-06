@@ -2,15 +2,15 @@
 title: How to Engrave Scallops
 draft: false
 created: 2026-10-01T19:12:09
-updated: 2026-10-06T13:40:27
+updated: 2026-10-06T13:42:23
 ---
 #metalsmithing #GRS #creativity #engraving
 See more: [[Metalworking]]
 
-## Materials:
+### Materials:
 - [C-Max #37 Tapered Flat](https://grs.com/product/c-max-tapered-flat/)
 
-## Shaping Flat Graver
+### Shaping Flat Graver
 
 |             | Post | Tilt | Beg Grit            | End Grit |
 | ----------- | ---- | ---- | ------------------- | -------- |
@@ -20,7 +20,7 @@ See more: [[Metalworking]]
 
 Good for shadowing
 
-## Shaping 120° Flat Graver
+### Shaping 120° Flat Graver
 
 |       | Post | Tilt | Beg Grit           | End Grit |
 | ----- | ---- | ---- | ------------------ | -------- |

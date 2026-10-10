@@ -1,10 +1,9 @@
 ---
-title: Digital Gardens for Creatives
-draft: false
+title: Template
+draft: true
 created: 2026-08-15T22:58:33
-updated: 2026-10-08T12:13:26
+updated: 2026-10-09T21:52:16
 ---
-
 #digital-garden #creativity 
 
 1. [Caro's Digital Garden](https://garden.carolynyoo.com/) by Carolyn Yoo

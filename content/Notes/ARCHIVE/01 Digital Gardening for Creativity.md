@@ -1,9 +1,10 @@
 ---
-title: Digital gardening for creativity
+title: Template
 draft: true
 created: 2026-08-15T22:36:36
-updated: 2026-10-06T13:52:11
+updated: 2026-10-09T21:51:46
 ---
+
  #digital-garden #essay
 
 **Thesis:** What is digital gardening, and how can you use it as a creative? or Digital gardening is an invaluable tool for creatives or anyone wanting to cultivate their creativity.

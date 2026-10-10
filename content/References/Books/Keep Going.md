@@ -1,6 +1,8 @@
 ---
 title: Keep Going
 draft: false
+created: 2026-10-06T13:56:15
+updated: 2026-10-09T22:14:34
 ---
  #creativity #book
 
@@ -17,7 +19,7 @@ draft: false
 
 Pay attention to what you pay attention to
 
-"For anyon trying to discern what to do with their life: pay attention what you pay attention to. That's pretty much all the info you need" - Amy Krouse Rosenthal
+"For anyone      trying to discern what to do with their life: pay attention what you pay attention to. That's pretty much all the info you need" - Amy Krouse Rosenthal
 
 Your attention is one of the most valuable things you possess, which is why everyone wants to steal it from you. First you must protect it, and then you must point it in the right direction
 

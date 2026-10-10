@@ -1,6 +1,6 @@
 ---
 title: Digital Garden Tour
-draft: true
+draft: false
 created: 2026-10-09T21:52:17
 updated: 2026-10-09T22:19:17
 ---

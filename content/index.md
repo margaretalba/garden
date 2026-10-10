@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden
 created: 2026-08-16T01:40:10
-updated: 2026-10-06T13:57:43
+updated: 2026-10-09T21:40:43
 ---
 Welcome to my digital garden! This is a public, evolving collection of my notes, research, and creative processes. 
 
@@ -9,7 +9,7 @@ Welcome to my digital garden! This is a public, evolving collection of my notes,
 I am a multi-disciplinary designer who loves video essays, metalsmithing, and a good hand-written letter.
 
 ### ✿ About Digital Gardens
-Digital gardens are ever-evolving online spaces that encourages curiosity and learning while fostering new ideas. 
+Digital gardens are ever-evolving online spaces that encourages curiosity and learning while fostering new ideas. I made a video about them [here](https://youtu.be/TkdP_-83c8M?si=RHKW3h2VW7P-vYbM).
 
 ### ✿ Explore Folders
 

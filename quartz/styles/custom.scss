@@ -235,7 +235,7 @@ hr {
     font-size: 13px;
     white-space: nowrap;
     min-width: 0;
-    flex: 1 1 auto;
+    flex: 1 1 0; // zero basis so it shrinks before the toolbar wraps
 
     &::before {
       display: none;
@@ -451,7 +451,7 @@ hr {
 
 // Footer stays on the canvas, outside the frame
 .page > #quartz-body > footer {
-  margin-bottom: 120px;
+  margin-bottom: 40px;
 }
 
 @media all and ($mobile) {
@@ -707,5 +707,90 @@ article ul:has(> li > a.tag-link):not(:has(> li > :not(a.tag-link))) {
 
   & > li {
     margin: 0;
+  }
+}
+
+// ==========================================
+// 7. STUDIO COMMENT PIN
+// ==========================================
+
+// Comment pin under the explorer, in the left sidebar
+.studio-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  flex: none;
+  font-family: var(--font-body);
+  animation: noteIn 0.5s cubic-bezier(0.22, 0.8, 0.3, 1) 0.6s both;
+
+  & .studio-note-pin {
+    flex: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 50% 50% 50% 0;
+    background: var(--secondary);
+    color: var(--on-accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  & .studio-note-bubble {
+    flex: 1;
+    background: var(--panel);
+    border: 1px solid var(--lightgray);
+    border-radius: var(--radius);
+    padding: 10px 14px;
+    font-size: 13px;
+    line-height: 1.4;
+    color: var(--darkgray);
+    box-shadow: 0 8px 24px rgba(45, 42, 37, 0.1);
+  }
+
+  & a {
+    color: var(--secondary);
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+  }
+
+  // On phones the left sidebar is the top bar: give the pin its own row beneath it
+  @media all and ($mobile) {
+    flex-basis: 100%;
+    margin-top: 12px;
+  }
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+
+    // The title now fills the row itself, so the spacer would only squeeze it
+    & > .mobile-only:has(> .spacer) {
+      display: none;
+    }
+  }
+}
+
+@keyframes noteIn {
+  0% {
+    opacity: 0;
+    transform: translateY(8px) scale(0.96);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .studio-note {
+    animation: none;
   }
 }

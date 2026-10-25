@@ -27,6 +27,16 @@ export const DefaultFrame: PageFrame = {
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />
           ))}
+          {/* Figma-style comment pin linking to the studio, as on work.margaretalba.com */}
+          <aside class="studio-note" aria-label="Studio">
+            <span class="studio-note-pin" aria-hidden="true">
+              1
+            </span>
+            <span class="studio-note-bubble">
+              <span class="studio-note-text">I also teach wax carving. </span>
+              <a href="https://margaretalba.com">Visit the studio →</a>
+            </span>
+          </aside>
         </div>
         <div class="center">
           <div class="page-header">

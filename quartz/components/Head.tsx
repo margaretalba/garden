@@ -57,6 +57,8 @@ export default (() => {
             )}
           </>
         )}
+        {/* Adobe Fonts kit (IvyPresto Display), shared with work.margaretalba.com */}
+        <link rel="stylesheet" href="https://use.typekit.net/haz5lhc.css" />
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 

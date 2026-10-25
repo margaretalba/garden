@@ -14,36 +14,36 @@ configuration:
   ignorePatterns:
     - private
     - templates
-    # 2. NOTE: If your canvases live inside folders that use .obsidian paths, 
+    # 2. NOTE: If your canvases live inside folders that use .obsidian paths,
     # keep an eye on this. Otherwise, this line is fine.
-    - .obsidian 
+    - .obsidian
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Playfair Display # Elegant serif font mirroring your jewelry brand aesthetic
-      body: Montserrat        # Sleek geometric sans-serif for clean, high-end body text
-      code: Fira Code         # Clear monospace font for code blocks
+      header: Bodoni Moda # Fallback for IvyPresto Display (loaded from Adobe Fonts), matching work.margaretalba.com
+      body: Inter # Same UI sans as the portfolio
+      code: Fira Code
     colors:
       lightMode:
-        light: "#faf8f6"         # Warm cream background matching margaretalba.com
-        lightgray: "#e8e5df"     # Soft subtle borders
-        gray: "#8c8a84"          # Muted warm gray for metadata, tags, and dates
-        darkgray: "#2b2927"      # Dark charcoal body text for elegant contrast
-        dark: "#111111"          # Near-black for deep, bold headers
-        secondary: "#B54328"     # Matte metallic gold for hyperlinks and primary accents
-        tertiary: "#bf4c31"      # Lighter champagne gold for hover states
-        highlight: "rgba(197, 160, 89, 0.06)" # Soft transparent gold for background highlights
+        light: "#F2F1E6" # Canvas cream (portfolio background)
+        lightgray: "#D5D1C0" # Panel borders + dot grid
+        gray: "#6B665E" # Frame labels, metadata
+        darkgray: "#3E3A34" # Body text
+        dark: "#2D2A25" # Headings, toolbar
+        secondary: "#B54329" # Rust accent: links, selection
+        tertiary: "#8F3420" # Darker rust for hover
+        highlight: "rgba(181, 67, 41, 0.08)"
         textHighlight: "#fff23688"
       darkMode:
-        light: "#121212"         # Rich deep charcoal background
-        lightgray: "#222222"     # Dark borders
-        gray: "#7a7872"          # Soft gold-tinted gray metadata
-        darkgray: "#e5e5e3"      # Off-white readable body text
-        dark: "#ffffff"          # True white for clean bold headings
-        secondary: "#dfc48c"     # Radiant champagne gold for links
-        tertiary: "#f0ddb7"      # Brilliant bright gold for interactive hover actions
-        highlight: "rgba(223, 196, 140, 0.08)" # Subtle golden glow highlights
+        light: "#1E1C19" # Dark canvas
+        lightgray: "#3A362F" # Panel borders + dot grid
+        gray: "#9A948A"
+        darkgray: "#E3DFD3"
+        dark: "#F9F9EE"
+        secondary: "#E2785C" # Rust, lifted for contrast on dark
+        tertiary: "#F0A08A"
+        highlight: "rgba(226, 120, 92, 0.12)"
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -113,6 +113,17 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: local # Bodoni Moda / Inter / Fira Code already load via theme.typography
+      title: '"Inter", system-ui, sans-serif'
+      header: '"ivypresto-display", "Bodoni Moda", serif'
+      h3: '"Inter", system-ui, sans-serif'
+      h4: '"Inter", system-ui, sans-serif'
+      h5: '"Inter", system-ui, sans-serif'
+      h6: '"Inter", system-ui, sans-serif'
+      body: '"Inter", system-ui, sans-serif'
+      interface: '"Inter", system-ui, sans-serif'
+      code: '"Fira Code", monospace'
   - source: "@quartz-themes/core"
     enabled: false
     options:

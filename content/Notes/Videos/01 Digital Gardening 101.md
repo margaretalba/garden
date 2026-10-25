@@ -2,8 +2,10 @@
 title: Digital Gardening 101
 draft: false
 created: 2026-10-09T21:57:25
-updated: 2026-10-09T22:19:10
+updated: 2026-10-09T23:19:14
 ---
+#digital-garden #youtube 
+
 You can watch the video [here](https://youtu.be/TkdP_-83c8M?si=qXQUo_9dYZOkuvGZ)
 
 🔗 LINKS & RESOURCES MENTIONED: 

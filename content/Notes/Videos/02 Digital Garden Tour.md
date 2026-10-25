@@ -2,8 +2,11 @@
 title: Digital Garden Tour
 draft: false
 created: 2026-10-09T21:52:17
-updated: 2026-10-09T22:19:17
+updated: 2026-10-09T23:22:49
 ---
+#digital-garden #youtube
+
+You can watch the video [here](https://youtu.be/og4g4i5OYKg).
 
 I noticed while editing that I never distinguished between the two indexes. One index is the homepage, and the other index is the database of links!
 

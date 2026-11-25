@@ -57,8 +57,11 @@ export default (() => {
             )}
           </>
         )}
-        {/* Adobe Fonts kit (IvyPresto Display), shared with work.margaretalba.com */}
-        <link rel="stylesheet" href="https://use.typekit.net/haz5lhc.css" />
+        {/* Formal script for the wordmark */}
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap"
+        />
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 

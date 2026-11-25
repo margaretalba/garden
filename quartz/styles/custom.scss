@@ -1,62 +1,53 @@
 @use "./variables.scss" as *;
 
 // ==========================================
-// 1. WORK.MARGARETALBA.COM DESIGN SYSTEM
-//    Figma-style canvas: dot grid, white panels,
-//    rust selection handles, dark pill toolbar.
+// 1. BOOKISH DESIGN SYSTEM
+//    Tracked roman capitals, Gill Sans small caps and a script wordmark,
+//    after a moodboard of old book covers, in the margaretalba.com palette.
 // ==========================================
 
 :root {
-  --font-body: "Inter", system-ui, -apple-system, sans-serif;
-  --font-header: "ivypresto-display", "Bodoni Moda", serif;
-
-  --panel: #ffffff;
-  --frame: #fbfaf3;
-  --dot: #d5d1c0;
-  --on-accent: #f9f9ee;
-  --toolbar: #2d2a25;
-  --radius: 12px;
-
-  // Rust arrow cursor from the portfolio
-  --cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='25' viewBox='0 0 13 18'%3E%3Cpath d='M5.65376 12.3673H5.46026L5.31717 12.4976L0.500002 16.8829L0.500002 1.19841L11.7841 12.3673H5.65376Z' fill='%23B54329' stroke='%23fff'/%3E%3C/svg%3E")
-    1 2;
-}
-
-:root[saved-theme="dark"] {
-  --panel: #282520;
-  --frame: #24211d;
-  --dot: #3a362f;
-  --on-accent: #1e1c19;
-  --toolbar: #2f2c27;
+  --font-body: "EB Garamond", Garamond, Georgia, serif;
+  --font-roman: "Cormorant Garamond", Garamond, serif;
+  --font-caps: "Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif;
+  --font-script: "Pinyon Script", cursive;
 }
 
 html {
-  cursor: var(--cursor), auto;
   min-height: 100%;
   background-color: var(--light);
-  background-image: radial-gradient(var(--dot) 1.2px, transparent 1.2px);
-  background-size: 24px 24px;
-}
-
-a,
-button,
-summary,
-label,
-[role="button"] {
-  cursor: var(--cursor), pointer;
 }
 
 body {
   font-family: var(--font-body);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 1.7;
+  line-height: 1.6;
   color: var(--darkgray);
   background: transparent;
 }
 
 ::selection {
-  background: var(--highlight);
+  background: var(--textHighlight);
+}
+
+// Gill Sans small caps, like "EDITIONS SURREALISTES" and "A GUIDE TO"
+@mixin caps {
+  font-family: var(--font-caps);
+  font-size: 11px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+// Widely tracked roman capitals, like "ARTINE" and "EXEMPLA"
+@mixin roman-caps {
+  font-family: var(--font-roman);
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
 
 // ==========================================
@@ -69,35 +60,34 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-header);
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: -0.02em;
-  line-height: 1.15;
   color: var(--dark);
+  font-style: normal;
+}
+
+h1,
+h2 {
+  @include roman-caps;
+  line-height: 1.2;
 }
 
 h1 {
-  font-size: 2.6rem;
-}
-
-h2 {
   font-size: 1.9rem;
 }
 
-// Small headings become portfolio-style eyebrow labels
+h2 {
+  font-size: 1.3rem;
+  margin-top: 2.75rem;
+  margin-bottom: 0.75rem;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-body);
-  font-size: 0.8rem;
-  font-weight: 500;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--secondary);
+  @include caps;
+  color: var(--dark);
   margin-top: 2.25rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.35rem;
 }
 
 h4,
@@ -106,22 +96,30 @@ h6 {
   color: var(--gray);
 }
 
+article p,
+article li {
+  max-width: 34em;
+}
+
 a {
   color: var(--secondary);
-  font-weight: 500;
+  font-weight: 400;
 
   &:hover {
     color: var(--tertiary);
   }
 
-  &.internal {
+  &.internal,
+  &.external {
     background-color: transparent;
     padding: 0;
     text-decoration: underline;
-    text-decoration-color: color-mix(in srgb, var(--secondary) 35%, transparent);
+    text-decoration-thickness: 1px;
+    text-decoration-color: color-mix(in srgb, var(--secondary) 40%, transparent);
     text-underline-offset: 3px;
 
     &:hover {
+      color: var(--tertiary);
       text-decoration-color: currentColor;
     }
   }
@@ -129,14 +127,15 @@ a {
 
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid var(--secondary);
-  outline-offset: 4px;
+  outline: 1px solid var(--secondary);
+  outline-offset: 3px;
 }
 
 blockquote {
-  border-left: 2px solid var(--secondary);
-  margin-left: 0;
+  border-left: 1px solid var(--secondary);
+  margin: 2rem 0;
   padding-left: 1.25rem;
+  font-style: italic;
 }
 
 hr {
@@ -144,12 +143,20 @@ hr {
   border-top: 1px solid var(--lightgray);
 }
 
+strong {
+  font-weight: 500;
+}
+
+code {
+  border-radius: 0;
+}
+
 // ==========================================
-// 3. LAYOUT: CANVAS + PANELS
+// 3. LAYOUT
 // ==========================================
 
 .page > #quartz-body {
-  column-gap: 24px;
+  column-gap: 44px;
 
   // Keep the single mobile column at viewport width so wide rows truncate instead of overflowing
   @media all and ($mobile) {
@@ -157,110 +164,77 @@ hr {
   }
 
   & .sidebar {
-    padding: 28px 0 28px 0;
+    padding: 36px 0 32px 0;
+    gap: 1.75rem;
   }
 
   & .sidebar.left {
-    padding-left: 24px;
+    padding-left: 28px;
 
     @media all and ($mobile) {
       padding: 16px 0 0 0;
-      gap: 8px;
+      gap: 12px;
     }
   }
 
   & .sidebar.right {
-    padding-right: 24px;
-  }
-
-  & .page-header {
-    margin-top: 28px;
+    padding-right: 28px;
   }
 }
 
-// Shared panel look: white card, hairline border
-@mixin panel {
-  background: var(--panel);
-  border: 1px solid var(--lightgray);
-  border-radius: var(--radius);
-}
-
-// Panel section headers (Explorer, Graph view, Table of contents...)
+// Panel section labels (Explorer, Graph view, Table of contents, Backlinks)
 .explorer .title-button h2,
 .explorer .title-button,
 .graph > h3,
 .toc .toc-header h3,
 .backlinks > h3 {
-  font-family: var(--font-body) !important;
-  font-size: 12px !important;
-  font-weight: 600 !important;
-  letter-spacing: 0 !important;
-  text-transform: none !important;
+  @include caps;
   color: var(--dark) !important;
   margin: 0 !important;
 }
 
-// ---- File bar (site title) ----
+// ---- Wordmark in a formal script ----
 .page-title {
-  @include panel;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 14px;
   margin: 0;
-  font-family: var(--font-body);
-  font-size: 14px;
-  font-weight: 600;
+  font-family: var(--font-script);
+  font-size: 34px;
+  font-weight: 400;
   letter-spacing: 0;
-  line-height: 1.3;
+  line-height: 1.1;
   text-transform: none;
-
-  &::before {
-    content: "";
-    flex: none;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--secondary);
-  }
 
   & a {
     color: var(--dark);
     text-decoration: none;
-    font-weight: 600;
   }
 
   @media all and ($mobile) {
-    padding: 8px 12px;
-    font-size: 13px;
+    font-size: 26px;
     white-space: nowrap;
     min-width: 0;
     flex: 1 1 0; // zero basis so it shrinks before the toolbar wraps
-
-    &::before {
-      display: none;
-    }
+    text-align: center;
 
     & a {
       display: block;
       min-width: 0;
-      white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
   }
 }
 
-// ---- Toolbar (search, dark mode, reader) as dark pill ----
+// ---- Toolbar (search, dark mode, reader): small caps on a printed rule ----
 .sidebar.left > .flex-component {
-  background: var(--toolbar);
-  border-radius: 14px;
-  padding: 6px;
   align-items: center;
+  border-top: 1px solid var(--dark);
+  border-bottom: 1px solid var(--dark);
+  padding: 4px 0;
 
   @media all and ($mobile) {
     flex: 0 0 auto;
-    padding: 4px;
+    border: none;
+    padding: 0;
 
     & .search > .search-button p {
       display: none;
@@ -269,66 +243,60 @@ hr {
 
   & button.darkmode,
   & button.readermode {
-    color: #f9f9ee;
-    border-radius: 999px;
-    width: 36px;
-    height: 36px;
+    width: 28px;
+    height: 28px;
+    margin: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0;
-    transition: background 0.15s;
-
-    &:hover {
-      background: #b54329;
-    }
 
     & svg {
-      fill: #f9f9ee;
-      stroke: #f9f9ee;
-      width: 18px;
-      height: 18px;
+      fill: var(--dark);
+      stroke: var(--dark);
+      width: 15px;
+      height: 15px;
+    }
+
+    &:hover svg {
+      fill: var(--tertiary);
+      stroke: var(--tertiary);
     }
   }
 
   & .search > .search-button {
-    background: rgba(249, 249, 238, 0.08);
+    background: transparent;
     border: none;
-    border-radius: 999px;
-    color: #f9f9ee;
-    height: 36px;
+    border-radius: 0;
+    padding: 0;
+    height: 28px;
 
-    & p,
-    & svg,
-    & .search-path {
-      color: rgba(249, 249, 238, 0.75);
-      stroke: rgba(249, 249, 238, 0.75);
+    & p {
+      @include caps;
+      color: var(--dark);
     }
 
-    &:hover {
-      background: #b54329;
+    & svg,
+    & .search-path {
+      stroke: var(--dark);
+      width: 13px;
+    }
+
+    &:hover p {
+      color: var(--tertiary);
     }
   }
 }
 
-// ---- Layers panel (explorer) ----
+// ---- Explorer as a book's table of contents ----
 .explorer {
-  @include panel;
-  padding: 12px 8px 8px 8px;
   overflow: hidden;
 
   & .title-button {
-    padding: 0 6px 8px 6px;
+    padding: 0 0 8px 0;
   }
 
   & .explorer-content ul.explorer-ul {
-    font-size: 13px;
-  }
-
-  & li > a,
-  & .folder-container {
-    border-radius: 6px;
-    padding: 2px 6px;
+    font-size: 15px;
   }
 
   & li > a {
@@ -337,34 +305,33 @@ hr {
     text-decoration: none;
     display: block;
     opacity: 1;
+    padding: 1px 0;
 
     &:hover {
-      background: var(--highlight);
-      color: var(--secondary);
+      color: var(--tertiary);
     }
 
     &.active {
-      background: var(--secondary);
-      color: var(--on-accent);
+      color: var(--secondary);
+      font-style: italic;
       opacity: 1;
     }
   }
 
   & .folder-container .folder-title,
   & .folder-container button {
-    font-family: var(--font-body);
+    @include caps;
     color: var(--dark);
-    font-size: 13px;
-    font-weight: 500;
+  }
+
+  & .folder-icon,
+  & .nav-folder-collapse-indicator {
+    color: var(--dark);
   }
 }
 
 @media all and ($mobile) {
   .explorer {
-    background: transparent;
-    border: none;
-    padding: 0;
-
     // Anchor the drawer to the viewport, not the page gutter, so the closed drawer
     // doesn't peek in or widen the page
     & > .explorer-content {
@@ -374,27 +341,17 @@ hr {
   }
 }
 
-// ---- Design panel (graph, toc, backlinks) ----
+// ---- Right sidebar: graph, contents, backlinks ----
 .sidebar.right {
-  & .graph,
-  & .toc,
-  & .backlinks {
-    @include panel;
-    padding: 12px;
-  }
-
   & .graph > .graph-outer {
     border: 1px solid var(--lightgray);
-    border-radius: 8px;
-    background: var(--light);
-    background-image: radial-gradient(var(--dot) 1px, transparent 1px);
-    background-size: 16px 16px;
-    margin-top: 10px;
+    border-radius: 0;
+    margin-top: 8px;
   }
 
   & .toc .toc-content,
   & .backlinks ul {
-    font-size: 13px;
+    font-size: 15px;
 
     & a {
       color: var(--darkgray);
@@ -405,25 +362,47 @@ hr {
       &:hover,
       &.in-view {
         color: var(--secondary);
+        font-style: italic;
       }
     }
   }
 }
 
 // ==========================================
-// 4. THE FRAME (article)
+// 4. TITLE PAGE (page header)
 // ==========================================
 
-// Breadcrumbs read like a Figma frame name above the artboard
-.breadcrumb-container {
-  font-size: 12px;
-  color: var(--gray);
-  margin: 0 0 8px 0;
-  padding: 0 2px;
+.center {
+  margin-top: 36px;
 
-  & a {
+  & > hr {
+    margin: 3rem 0 1rem 0;
+  }
+}
+
+.page > #quartz-body > footer {
+  margin-bottom: 44px;
+}
+
+// Set like a book's title page: author line, tracked title, a short rule
+.page > #quartz-body .center > .page-header {
+  margin: 0 0 2.5rem 0;
+  padding-bottom: 1.75rem;
+  text-align: center;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+// Breadcrumbs as the author line ("RENÉ CHAR")
+.page-header .breadcrumb-container {
+  @include caps;
+  font-size: 10px;
+  justify-content: center;
+  margin: 0 0 1.25rem 0;
+  color: var(--gray);
+
+  & a,
+  & p {
     color: var(--gray);
-    font-weight: 400;
     text-decoration: none;
 
     &:hover {
@@ -432,76 +411,17 @@ hr {
   }
 }
 
-// Header + article + meta sit inside one artboard card
-.center {
-  @include panel;
-  background: var(--frame);
-  padding: 20px 40px 28px 40px;
-  margin-top: 28px;
-  box-sizing: border-box;
-
-  & > .page-header {
-    margin-top: 0 !important;
-  }
-
-  & > hr {
-    margin: 2.5rem 0 1rem 0;
-  }
-}
-
-// Footer stays on the canvas, outside the frame
-.page > #quartz-body > footer {
-  margin-bottom: 40px;
-}
-
-@media all and ($mobile) {
-  .center {
-    padding: 16px 20px 20px 20px;
-    margin-top: 12px;
-  }
-}
-
-// Title gets a live "selected layer" box with corner handles
 .page-header .article-title {
-  position: relative;
-  display: inline-block;
-  margin: 18px 0 0.75rem -10px;
-  padding: 2px 10px 6px 10px;
-  border: 2px solid var(--secondary);
-  font-size: clamp(2.2rem, 5vw, 3.4rem);
-  line-height: 1.05;
-  letter-spacing: -0.03em;
-
-  // Four corner handles drawn on one overlay: a rust square under a smaller fill square
-  &::before {
-    content: "";
-    position: absolute;
-    inset: -5px;
-    pointer-events: none;
-    --h: linear-gradient(var(--secondary), var(--secondary));
-    --f: linear-gradient(var(--panel), var(--panel));
-    background:
-      var(--f) left 2px top 2px / 5px 5px no-repeat,
-      var(--f) right 2px top 2px / 5px 5px no-repeat,
-      var(--f) left 2px bottom 2px / 5px 5px no-repeat,
-      var(--f) right 2px bottom 2px / 5px 5px no-repeat,
-      var(--h) left top / 9px 9px no-repeat,
-      var(--h) right top / 9px 9px no-repeat,
-      var(--h) left bottom / 9px 9px no-repeat,
-      var(--h) right bottom / 9px 9px no-repeat;
-  }
+  @include roman-caps;
+  margin: 0;
+  font-size: clamp(1.7rem, 3.6vw, 2.6rem);
+  line-height: 1.15;
 }
 
-article > .markdown-preview-view > p:first-child,
-article > p:first-child {
-  font-size: 1.1rem;
-  color: var(--darkgray);
-}
-
-// Meta line ("Oct 9, 2026, 3 min read") as a small frame label
 .page-footer .content-meta,
 .content-meta {
-  font-size: 12px;
+  @include caps;
+  font-size: 10px;
   color: var(--gray);
   margin: 0;
 }
@@ -510,116 +430,88 @@ article > p:first-child {
 // 5. COMPONENTS
 // ==========================================
 
-// Tag chips, like the portfolio's skill chips
+// Tags as small caps in studio rust
 a.internal.tag-link {
+  @include caps;
   background: transparent !important;
-  color: var(--dark) !important;
-  border: 1px solid var(--dark) !important;
-  border-radius: 999px !important;
-  padding: 2px 12px !important;
-  font-size: 12px !important;
-  font-weight: 500 !important;
-  text-decoration: none !important;
+  color: var(--secondary) !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 1rem 0.25rem 0 !important;
   display: inline-block !important;
-  margin: 0 0.25rem 0.4rem 0 !important;
-  line-height: 1.6 !important;
-  text-transform: none !important;
-  transition:
-    background 0.15s,
-    color 0.15s,
-    border-color 0.15s;
+  text-decoration: none !important;
 }
 
 a.internal.tag-link:hover {
-  background: var(--secondary) !important;
-  border-color: var(--secondary) !important;
-  color: var(--on-accent) !important;
-}
-
-// Inline code + code blocks
-code {
-  border-radius: 6px;
+  color: var(--tertiary) !important;
 }
 
 pre {
   border: 1px solid var(--lightgray);
-  border-radius: 10px;
-  background: var(--panel) !important;
+  border-radius: 0;
+  background: color-mix(in srgb, var(--light) 70%, #fff) !important;
 }
 
-// Images sit in a soft frame like portfolio thumbnails
 article img {
-  border-radius: 10px;
+  border-radius: 0;
 }
 
-// Tables
 table {
   border-collapse: collapse;
-  border: 1px solid var(--lightgray);
-  border-radius: 10px;
-  overflow: hidden;
 
   th {
-    font-family: var(--font-body);
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
+    @include caps;
     color: var(--gray);
+    border-bottom: 1px solid var(--dark);
+  }
+
+  td {
+    border-bottom: 1px solid var(--lightgray);
   }
 }
 
-// Callouts as rounded cards
 .callout {
-  border-radius: 10px;
+  border-radius: 0;
 }
 
-// Popovers + search modal look like floating Figma panels
 .popover > .popover-inner,
 .search .search-container .search-space {
-  background: var(--panel);
+  background-color: var(--light);
   border: 1px solid var(--lightgray);
-  border-radius: var(--radius);
-  box-shadow:
-    0 1px 2px rgba(45, 42, 37, 0.06),
-    0 12px 32px rgba(45, 42, 37, 0.14);
+  border-radius: 0;
+  box-shadow: none;
 }
 
-// Folder/tag listing pages
+// Folder/tag listing pages, like a catalogue
 ul.section-ul > li.section-li {
   border-bottom: 1px solid var(--lightgray);
-  padding: 0.6rem 0;
+  padding: 0.75rem 0;
 
   & .meta {
-    font-size: 12px;
+    @include caps;
+    font-size: 10px;
     color: var(--gray);
   }
 
   & h3 > a {
-    font-family: var(--font-header);
-    font-size: 1.35rem;
-    font-weight: 400;
-    letter-spacing: -0.02em;
-    text-transform: none;
+    @include roman-caps;
+    font-size: 1.05rem;
     color: var(--dark);
     text-decoration: none;
 
     &:hover {
       color: var(--secondary);
     }
-
-    @media all and ($mobile) {
-      font-size: 1.1rem;
-    }
   }
 }
 
-// Footer links as the portfolio's dark pill nav
 footer {
   text-align: center;
 
   & p {
-    font-size: 12px;
+    @include caps;
+    font-size: 10px;
     color: var(--gray);
   }
 
@@ -627,10 +519,8 @@ footer {
     display: inline-flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 4px;
-    background: var(--toolbar);
-    border-radius: 14px;
-    padding: 8px;
+    gap: 0 1.25rem;
+    padding: 0;
     margin: 0.5rem 0 0 0;
     list-style: none;
 
@@ -639,17 +529,12 @@ footer {
     }
 
     & a {
-      display: block;
-      color: #f9f9ee;
-      padding: 6px 14px;
-      border-radius: 999px;
-      font-size: 14px;
-      font-weight: 500;
+      @include caps;
+      color: var(--dark);
       text-decoration: none;
 
       &:hover {
-        background: #b54329;
-        color: #f9f9ee;
+        color: var(--tertiary);
       }
     }
   }
@@ -697,13 +582,13 @@ ul.tags li,
   list-style-type: none !important;
 }
 
-// A list made only of tags (e.g. "Explore tags") shows as a row of chips, no bullets
+// A list made only of tags (e.g. "Explore tags") shows as one row, no bullets
 article ul:has(> li > a.tag-link):not(:has(> li > :not(a.tag-link))) {
   list-style: none;
   padding-left: 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 0 0.25rem;
+  gap: 0;
 
   & > li {
     margin: 0;
@@ -711,59 +596,44 @@ article ul:has(> li > a.tag-link):not(:has(> li > :not(a.tag-link))) {
 }
 
 // ==========================================
-// 7. STUDIO COMMENT PIN
+// 7. STUDIO NOTE
+//    A small caps label and a link, set off by a rule.
 // ==========================================
 
-// Comment pin under the explorer, in the left sidebar
 .studio-note {
-  display: flex;
-  align-items: flex-start;
-  gap: 8px;
   flex: none;
-  font-family: var(--font-body);
-  animation: noteIn 0.5s cubic-bezier(0.22, 0.8, 0.3, 1) 0.6s both;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
 
   & .studio-note-pin {
-    flex: none;
-    width: 32px;
-    height: 32px;
-    border-radius: 50% 50% 50% 0;
-    background: var(--secondary);
-    color: var(--on-accent);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 13px;
-    font-weight: 600;
+    display: none;
   }
 
   & .studio-note-bubble {
-    flex: 1;
-    background: var(--panel);
-    border: 1px solid var(--lightgray);
-    border-radius: var(--radius);
-    padding: 10px 14px;
-    font-size: 13px;
-    line-height: 1.4;
+    display: block;
+    font-size: 15px;
+    line-height: 1.45;
     color: var(--darkgray);
-    box-shadow: 0 8px 24px rgba(45, 42, 37, 0.1);
-  }
 
-  & a {
-    color: var(--secondary);
-    font-weight: 600;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-      text-underline-offset: 3px;
+    &::before {
+      content: "Studio";
+      display: block;
+      margin-bottom: 0.3rem;
+      @include caps;
+      font-size: 10px;
+      color: var(--gray);
     }
   }
 
-  // On phones the left sidebar is the top bar: give the pin its own row beneath it
+  // On phones the left sidebar is the top bar: give the note its own row beneath it
   @media all and ($mobile) {
     flex-basis: 100%;
-    margin-top: 12px;
+    padding-top: 0.6rem;
+    text-align: center;
+
+    & .studio-note-bubble::before {
+      display: none;
+    }
   }
 }
 
@@ -775,22 +645,5 @@ article ul:has(> li > a.tag-link):not(:has(> li > :not(a.tag-link))) {
     & > .mobile-only:has(> .spacer) {
       display: none;
     }
-  }
-}
-
-@keyframes noteIn {
-  0% {
-    opacity: 0;
-    transform: translateY(8px) scale(0.96);
-  }
-  100% {
-    opacity: 1;
-    transform: none;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .studio-note {
-    animation: none;
   }
 }

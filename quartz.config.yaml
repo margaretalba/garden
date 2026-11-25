@@ -21,29 +21,34 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Bodoni Moda # Fallback for IvyPresto Display (loaded from Adobe Fonts), matching work.margaretalba.com
-      body: Inter # Same UI sans as the portfolio
-      code: Fira Code
+      header: # Tracked roman capitals, like the ARTINE and EXEMPLA covers
+        name: Cormorant Garamond
+        weights: [400, 500, 600]
+      body: # Bookish reading text
+        name: EB Garamond
+        weights: [400, 500]
+        includeItalic: true
+      code: Courier Prime
     colors:
       lightMode:
-        light: "#F2F1E6" # Canvas cream (portfolio background)
-        lightgray: "#D5D1C0" # Panel borders + dot grid
-        gray: "#6B665E" # Frame labels, metadata
-        darkgray: "#3E3A34" # Body text
-        dark: "#2D2A25" # Headings, toolbar
-        secondary: "#B54329" # Rust accent: links, selection
-        tertiary: "#8F3420" # Darker rust for hover
-        highlight: "rgba(181, 67, 41, 0.08)"
-        textHighlight: "#fff23688"
+        light: "#F8F8ED" # Studio cream, from margaretalba.com
+        lightgray: "#DDD8C8" # Pencil rules
+        gray: "#8A8378" # Faded print: labels, metadata
+        darkgray: "#2D2A25" # Studio ink: body text
+        dark: "#2D2A25" # Studio ink: headings
+        secondary: "#B54328" # Studio rust: links
+        tertiary: "#625448" # Studio cocoa: hover
+        highlight: "rgba(181, 67, 40, 0.08)"
+        textHighlight: "#ede3c9aa" # Parchment
       darkMode:
-        light: "#1E1C19" # Dark canvas
-        lightgray: "#3A362F" # Panel borders + dot grid
-        gray: "#9A948A"
-        darkgray: "#E3DFD3"
-        dark: "#F9F9EE"
-        secondary: "#E2785C" # Rust, lifted for contrast on dark
-        tertiary: "#F0A08A"
-        highlight: "rgba(226, 120, 92, 0.12)"
+        light: "#2D2A25" # Studio ink as the page
+        lightgray: "#4A453D"
+        gray: "#A59D90"
+        darkgray: "#EDEBDD"
+        dark: "#F8F8ED"
+        secondary: "#E0866E" # Rust, lifted for contrast on dark
+        tertiary: "#D9C7A0" # Gold, from the studio photography
+        highlight: "rgba(224, 134, 110, 0.12)"
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -114,16 +119,16 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
     options:
-      fontOrigin: local # Bodoni Moda / Inter / Fira Code already load via theme.typography
-      title: '"Inter", system-ui, sans-serif'
-      header: '"ivypresto-display", "Bodoni Moda", serif'
-      h3: '"Inter", system-ui, sans-serif'
-      h4: '"Inter", system-ui, sans-serif'
-      h5: '"Inter", system-ui, sans-serif'
-      h6: '"Inter", system-ui, sans-serif'
-      body: '"Inter", system-ui, sans-serif'
-      interface: '"Inter", system-ui, sans-serif'
-      code: '"Fira Code", monospace'
+      fontOrigin: local # Cormorant / EB Garamond / Courier Prime load via theme.typography; the wordmark script loads in Head.tsx
+      title: '"Pinyon Script", cursive'
+      header: '"Cormorant Garamond", Garamond, serif'
+      h3: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
+      h4: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
+      h5: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
+      h6: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
+      body: '"EB Garamond", Garamond, Georgia, serif'
+      interface: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
+      code: '"Courier Prime", "Courier New", monospace'
   - source: "@quartz-themes/core"
     enabled: false
     options:

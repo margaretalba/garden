@@ -2,14 +2,16 @@
 
 // ==========================================
 // 1. BOOKISH DESIGN SYSTEM
-//    Tracked roman capitals, Gill Sans small caps and a script wordmark,
-//    after a moodboard of old book covers, in the margaretalba.com palette.
+//    Centred title pages after a moodboard of old book covers, set in the
+//    margaretalba.com palette and type: IvyPresto Thin capitals with an
+//    Altesse swash initial, Inter text and small Inter caps labels.
 // ==========================================
 
 :root {
-  --font-body: "EB Garamond", Garamond, Georgia, serif;
-  --font-roman: "Cormorant Garamond", Garamond, serif;
-  --font-caps: "Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif;
+  --font-body: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-roman: "ivypresto-display", "Cormorant Garamond", Georgia, serif;
+  --font-caps: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-swash: "altesse-std-24pt", cursive;
   --font-script: "Pinyon Script", cursive;
 }
 
@@ -20,9 +22,9 @@ html {
 
 body {
   font-family: var(--font-body);
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.65;
   color: var(--darkgray);
   background: transparent;
 }
@@ -31,23 +33,32 @@ body {
   background: var(--textHighlight);
 }
 
-// Gill Sans small caps, like "EDITIONS SURREALISTES" and "A GUIDE TO"
+// Small Inter caps, like margaretalba.com's "BOOK WORKSHOPS"
 @mixin caps {
   font-family: var(--font-caps);
   font-size: 11px;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
   line-height: 1.5;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-// Widely tracked roman capitals, like "ARTINE" and "EXEMPLA"
+// IvyPresto Thin capitals, like margaretalba.com's "OBJECTS, WORKSHOPS"
 @mixin roman-caps {
   font-family: var(--font-roman);
-  font-weight: 500;
-  letter-spacing: 0.14em;
+  font-weight: 100;
+  letter-spacing: -0.03em;
   text-transform: uppercase;
+}
+
+// Altesse swash capital to open a display line, like the J in "JOURNAL"
+@mixin swash-initial {
+  &::first-letter {
+    font-family: var(--font-swash);
+    font-weight: 400;
+    letter-spacing: 0.02em;
+  }
 }
 
 // ==========================================
@@ -71,11 +82,11 @@ h2 {
 }
 
 h1 {
-  font-size: 1.9rem;
+  font-size: 2.2rem;
 }
 
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   margin-top: 2.75rem;
   margin-bottom: 0.75rem;
 }
@@ -296,7 +307,7 @@ code {
   }
 
   & .explorer-content ul.explorer-ul {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   & li > a {
@@ -351,7 +362,7 @@ code {
 
   & .toc .toc-content,
   & .backlinks ul {
-    font-size: 15px;
+    font-size: 13px;
 
     & a {
       color: var(--darkgray);
@@ -413,9 +424,10 @@ code {
 
 .page-header .article-title {
   @include roman-caps;
+  @include swash-initial;
   margin: 0;
-  font-size: clamp(1.7rem, 3.6vw, 2.6rem);
-  line-height: 1.15;
+  font-size: clamp(2.2rem, 4.6vw, 3.4rem);
+  line-height: 1.02;
 }
 
 .page-footer .content-meta,
@@ -496,7 +508,7 @@ ul.section-ul > li.section-li {
 
   & h3 > a {
     @include roman-caps;
-    font-size: 1.05rem;
+    font-size: 1.35rem;
     color: var(--dark);
     text-decoration: none;
 
@@ -611,7 +623,7 @@ article ul:has(> li > a.tag-link):not(:has(> li > :not(a.tag-link))) {
 
   & .studio-note-bubble {
     display: block;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 1.45;
     color: var(--darkgray);
 

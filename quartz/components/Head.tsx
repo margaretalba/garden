@@ -57,6 +57,8 @@ export default (() => {
             )}
           </>
         )}
+        {/* Adobe Fonts kit (IvyPresto Display Thin, Altesse), the same faces as margaretalba.com */}
+        <link rel="stylesheet" href="https://use.typekit.net/haz5lhc.css" />
         {/* Formal script for the wordmark */}
         <link
           rel="stylesheet"

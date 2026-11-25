@@ -21,14 +21,11 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: # Tracked roman capitals, like the ARTINE and EXEMPLA covers
+      header: # Fallback for IvyPresto Display (loaded from Adobe Fonts), as on margaretalba.com
         name: Cormorant Garamond
-        weights: [400, 500, 600]
-      body: # Bookish reading text
-        name: EB Garamond
-        weights: [400, 500]
-        includeItalic: true
-      code: Courier Prime
+        weights: [300, 400]
+      body: Inter # Same text face as margaretalba.com
+      code: Fira Code
     colors:
       lightMode:
         light: "#F8F8ED" # Studio cream, from margaretalba.com
@@ -119,16 +116,16 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
     options:
-      fontOrigin: local # Cormorant / EB Garamond / Courier Prime load via theme.typography; the wordmark script loads in Head.tsx
+      fontOrigin: local # Cormorant / Inter / Fira Code load via theme.typography; IvyPresto, Altesse and the Pinyon Script wordmark load in Head.tsx
       title: '"Pinyon Script", cursive'
-      header: '"Cormorant Garamond", Garamond, serif'
-      h3: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
-      h4: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
-      h5: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
-      h6: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
-      body: '"EB Garamond", Garamond, Georgia, serif'
-      interface: '"Gill Sans", "Gill Sans MT", "Lato", "Helvetica Neue", sans-serif'
-      code: '"Courier Prime", "Courier New", monospace'
+      header: '"ivypresto-display", "Cormorant Garamond", Georgia, serif'
+      h3: '"Inter", "Helvetica Neue", Arial, sans-serif'
+      h4: '"Inter", "Helvetica Neue", Arial, sans-serif'
+      h5: '"Inter", "Helvetica Neue", Arial, sans-serif'
+      h6: '"Inter", "Helvetica Neue", Arial, sans-serif'
+      body: '"Inter", "Helvetica Neue", Arial, sans-serif'
+      interface: '"Inter", "Helvetica Neue", Arial, sans-serif'
+      code: '"Fira Code", monospace'
   - source: "@quartz-themes/core"
     enabled: false
     options:
